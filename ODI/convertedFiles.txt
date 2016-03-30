@@ -1,0 +1,1150 @@
+225171.yaml:Ireland-England-2006-06-13.RData
+225245.yaml:England-Pakistan-2006-08-30.RData
+225246.yaml:England-Pakistan-2006-09-02.RData
+225247.yaml:England-Pakistan-2006-09-05.RData
+225248.yaml:England-Pakistan-2006-09-08.RData
+225249.yaml:England-Pakistan-2006-09-10.RData
+225250.yaml:England-Sri Lanka-2006-06-17.RData
+225251.yaml:England-Sri Lanka-2006-06-20.RData
+225252.yaml:England-Sri Lanka-2006-06-24.RData
+225253.yaml:England-Sri Lanka-2006-06-28.RData
+225254.yaml:England-Sri Lanka-2006-07-01.RData
+239917.yaml:West Indies-India-2006-05-23.RData
+239918.yaml:West Indies-India-2006-05-26.RData
+239919.yaml:West Indies-India-2006-05-28.RData
+247457.yaml:West Indies-Pakistan-2007-03-13.RData
+247458.yaml:Australia-Scotland-2007-03-14.RData
+225171.yaml:Ireland-England-2006-06-13.RData
+225245.yaml:England-Pakistan-2006-08-30.RData
+225246.yaml:England-Pakistan-2006-09-02.RData
+225247.yaml:England-Pakistan-2006-09-05.RData
+225248.yaml:England-Pakistan-2006-09-08.RData
+225249.yaml:England-Pakistan-2006-09-10.RData
+225250.yaml:England-Sri Lanka-2006-06-17.RData
+225251.yaml:England-Sri Lanka-2006-06-20.RData
+225252.yaml:England-Sri Lanka-2006-06-24.RData
+225253.yaml:England-Sri Lanka-2006-06-28.RData
+225254.yaml:England-Sri Lanka-2006-07-01.RData
+239917.yaml:West Indies-India-2006-05-23.RData
+239918.yaml:West Indies-India-2006-05-26.RData
+239919.yaml:West Indies-India-2006-05-28.RData
+247457.yaml:West Indies-Pakistan-2007-03-13.RData
+247458.yaml:Australia-Scotland-2007-03-14.RData
+247460.yaml:Bermuda-Sri Lanka-2007-03-15.RData
+247461.yaml:Ireland-Zimbabwe-2007-03-15.RData
+247462.yaml:Netherlands-South Africa-2007-03-16.RData
+247463.yaml:England-New Zealand-2007-03-16.RData
+247464.yaml:Bangladesh-India-2007-03-17.RData
+247465.yaml:Ireland-Pakistan-2007-03-17.RData
+247466.yaml:Australia-Netherlands-2007-03-18.RData
+247467.yaml:Canada-England-2007-03-18.RData
+247468.yaml:Bermuda-India-2007-03-19.RData
+247469.yaml:West Indies-Zimbabwe-2007-03-19.RData
+247470.yaml:Scotland-South Africa-2007-03-20.RData
+247471.yaml:Kenya-New Zealand-2007-03-20.RData
+247472.yaml:Bangladesh-Sri Lanka-2007-03-21.RData
+247473.yaml:Pakistan-Zimbabwe-2007-03-21.RData
+247474.yaml:Netherlands-Scotland-2007-03-22.RData
+247475.yaml:Canada-New Zealand-2007-03-22.RData
+247476.yaml:India-Sri Lanka-2007-03-23.RData
+247477.yaml:West Indies-Ireland-2007-03-23.RData
+247478.yaml:Australia-South Africa-2007-03-24.RData
+247479.yaml:England-Kenya-2007-03-24.RData
+247480.yaml:Bangladesh-Bermuda-2007-03-25.RData
+247481.yaml:West Indies-Australia-2007-03-27.RData
+247482.yaml:South Africa-Sri Lanka-2007-03-28.RData
+247483.yaml:West Indies-New Zealand-2007-03-29.RData
+247484.yaml:England-Ireland-2007-03-30.RData
+247485.yaml:Australia-Bangladesh-2007-03-31.RData
+247486.yaml:West Indies-Sri Lanka-2007-04-01.RData
+247487.yaml:Bangladesh-New Zealand-2007-04-02.RData
+247488.yaml:Ireland-South Africa-2007-04-03.RData
+247489.yaml:England-Sri Lanka-2007-04-04.RData
+247490.yaml:Bangladesh-South Africa-2007-04-07.RData
+247491.yaml:Australia-England-2007-04-08.RData
+247492.yaml:Ireland-New Zealand-2007-04-09.RData
+247493.yaml:West Indies-South Africa-2007-04-10.RData
+247494.yaml:Bangladesh-England-2007-04-11.RData
+247495.yaml:New Zealand-Sri Lanka-2007-04-12.RData
+247496.yaml:Australia-Ireland-2007-04-13.RData
+247497.yaml:New Zealand-South Africa-2007-04-14.RData
+247498.yaml:Bangladesh-Ireland-2007-04-15.RData
+247499.yaml:Australia-Sri Lanka-2007-04-16.RData
+247500.yaml:England-South Africa-2007-04-17.RData
+247501.yaml:Ireland-Sri Lanka-2007-04-18.RData
+247502.yaml:West Indies-Bangladesh-2007-04-19.RData
+247503.yaml:Australia-New Zealand-2007-04-20.RData
+247504.yaml:West Indies-England-2007-04-21.RData
+247505.yaml:New Zealand-Sri Lanka-2007-04-24.RData
+247506.yaml:Australia-South Africa-2007-04-25.RData
+247507.yaml:Australia-Sri Lanka-2007-04-28.RData
+249207.yaml:Zimbabwe-Bangladesh-2006-08-06.RData
+249211.yaml:South Africa-India-2006-11-22.RData
+249212.yaml:South Africa-India-2006-11-26.RData
+249213.yaml:South Africa-India-2006-11-29.RData
+249214.yaml:South Africa-India-2006-12-03.RData
+249228.yaml:Australia-New Zealand-2007-01-14.RData
+249229.yaml:Australia-New Zealand-2007-01-21.RData
+249230.yaml:Australia-New Zealand-2007-01-28.RData
+249231.yaml:Australia-New Zealand-2007-02-04.RData
+249232.yaml:Australia-England-2007-01-12.RData
+249233.yaml:Australia-England-2007-01-19.RData
+249234.yaml:Australia-England-2007-01-26.RData
+249235.yaml:Australia-England-2007-02-02.RData
+249236.yaml:England-New Zealand-2007-01-16.RData
+249237.yaml:England-New Zealand-2007-01-23.RData
+249238.yaml:England-New Zealand-2007-01-30.RData
+249239.yaml:England-New Zealand-2007-02-06.RData
+249240.yaml:Australia-England-2007-02-09.RData
+249241.yaml:Australia-England-2007-02-11.RData
+249378.yaml:Kenya-Bangladesh-2006-08-12.RData
+249379.yaml:Kenya-Bangladesh-2006-08-13.RData
+249380.yaml:Kenya-Bangladesh-2006-08-15.RData
+249739.yaml:Bangladesh-Sri Lanka-2006-10-07.RData
+249740.yaml:West Indies-Zimbabwe-2006-10-08.RData
+249742.yaml:Bangladesh-West Indies-2006-10-11.RData
+249743.yaml:Bangladesh-Zimbabwe-2006-10-13.RData
+249744.yaml:Sri Lanka-West Indies-2006-10-14.RData
+249745.yaml:India-England-2006-10-15.RData
+249746.yaml:New Zealand-South Africa-2006-10-16.RData
+249747.yaml:Pakistan-Sri Lanka-2006-10-17.RData
+249748.yaml:Australia-West Indies-2006-10-18.RData
+249749.yaml:New Zealand-Sri Lanka-2006-10-20.RData
+249750.yaml:Australia-England-2006-10-21.RData
+249751.yaml:South Africa-Sri Lanka-2006-10-24.RData
+249752.yaml:New Zealand-Pakistan-2006-10-25.RData
+249753.yaml:India-West Indies-2006-10-26.RData
+249754.yaml:Pakistan-South Africa-2006-10-27.RData
+249755.yaml:England-West Indies-2006-10-28.RData
+249756.yaml:India-Australia-2006-10-29.RData
+249757.yaml:Australia-New Zealand-2006-11-01.RData
+249758.yaml:South Africa-West Indies-2006-11-02.RData
+249759.yaml:Australia-West Indies-2006-11-05.RData
+250668.yaml:South Africa-Pakistan-2007-02-04.RData
+250669.yaml:South Africa-Pakistan-2007-02-07.RData
+250670.yaml:South Africa-Pakistan-2007-02-09.RData
+250671.yaml:South Africa-Pakistan-2007-02-11.RData
+250672.yaml:South Africa-Pakistan-2007-02-14.RData
+251489.yaml:New Zealand-Sri Lanka-2006-12-28.RData
+251491.yaml:New Zealand-Sri Lanka-2007-01-02.RData
+251492.yaml:New Zealand-Sri Lanka-2007-01-06.RData
+251494.yaml:New Zealand-Australia-2007-02-16.RData
+251495.yaml:New Zealand-Australia-2007-02-18.RData
+251496.yaml:New Zealand-Australia-2007-02-20.RData
+255961.yaml:South Africa-Zimbabwe-2006-09-15.RData
+256607.yaml:India-West Indies-2006-09-14.RData
+256608.yaml:Australia-India-2006-09-16.RData
+256610.yaml:Australia-West Indies-2006-09-18.RData
+256612.yaml:India-West Indies-2006-09-20.RData
+256614.yaml:Australia-India-2006-09-22.RData
+256615.yaml:Australia-West Indies-2006-09-24.RData
+256665.yaml:Sri Lanka-India-2006-08-18.RData
+257470.yaml:South Africa-Zimbabwe-2006-09-20.RData
+257769.yaml:Pakistan-West Indies-2006-12-07.RData
+257770.yaml:Pakistan-West Indies-2006-12-10.RData
+257771.yaml:Pakistan-West Indies-2006-12-13.RData
+257772.yaml:Pakistan-West Indies-2006-12-16.RData
+258465.yaml:England-West Indies-2007-07-01.RData
+258466.yaml:England-West Indies-2007-07-04.RData
+258467.yaml:England-West Indies-2007-07-07.RData
+258471.yaml:England-India-2007-08-21.RData
+258472.yaml:England-India-2007-08-24.RData
+258473.yaml:England-India-2007-08-27.RData
+258474.yaml:England-India-2007-08-30.RData
+258475.yaml:England-India-2007-09-02.RData
+258476.yaml:England-India-2007-09-05.RData
+258477.yaml:England-India-2007-09-08.RData
+259384.yaml:Bermuda-Canada-2006-11-27.RData
+259389.yaml:Bermuda-Netherlands-2006-12-02.RData
+259390.yaml:Bermuda-Canada-2006-11-30.RData
+259391.yaml:Canada-Netherlands-2006-12-01.RData
+259793.yaml:South Africa-Zimbabwe-2006-09-18.RData
+264068.yaml:Bangladesh-Zimbabwe-2006-12-03.RData
+264069.yaml:Bangladesh-Zimbabwe-2006-12-05.RData
+264070.yaml:Bangladesh-Zimbabwe-2006-12-08.RData
+264071.yaml:Bangladesh-Zimbabwe-2006-12-09.RData
+267386.yaml:Bermuda-Canada-2007-02-02.RData
+267387.yaml:Bermuda-Netherlands-2007-02-04.RData
+267389.yaml:Kenya-Scotland-2007-02-04.RData
+267391.yaml:Kenya-Canada-2007-02-05.RData
+267708.yaml:India-West Indies-2007-01-27.RData
+267709.yaml:India-West Indies-2007-01-31.RData
+267710.yaml:India-Sri Lanka-2007-02-08.RData
+267712.yaml:India-Sri Lanka-2007-02-11.RData
+267713.yaml:India-Sri Lanka-2007-02-17.RData
+267715.yaml:India-Sri Lanka-2007-02-14.RData
+275789.yaml:Scotland-India-2007-08-16.RData
+282688.yaml:Bangladesh-India-2007-05-10.RData
+282689.yaml:Bangladesh-India-2007-05-12.RData
+289107.yaml:Africa XI-Asia XI-2007-06-06.RData
+289108.yaml:Africa XI-Asia XI-2007-06-09.RData
+289110.yaml:Africa XI-Asia XI-2007-06-10.RData
+291217.yaml:Sri Lanka-England-2007-10-01.RData
+291218.yaml:Sri Lanka-England-2007-10-04.RData
+291220.yaml:Sri Lanka-England-2007-10-10.RData
+291221.yaml:Sri Lanka-England-2007-10-13.RData
+291345.yaml:Australia-New Zealand-2007-12-14.RData
+291346.yaml:Australia-New Zealand-2007-12-16.RData
+291347.yaml:Australia-New Zealand-2007-12-20.RData
+291360.yaml:India-Sri Lanka-2008-02-05.RData
+291361.yaml:Australia-Sri Lanka-2008-02-08.RData
+291362.yaml:Australia-India-2008-02-10.RData
+291364.yaml:Australia-Sri Lanka-2008-02-15.RData
+291365.yaml:Australia-India-2008-02-17.RData
+291366.yaml:India-Sri Lanka-2008-02-19.RData
+291367.yaml:Australia-Sri Lanka-2008-02-22.RData
+291368.yaml:Australia-India-2008-02-24.RData
+291369.yaml:India-Sri Lanka-2008-02-26.RData
+291370.yaml:Australia-Sri Lanka-2008-02-29.RData
+291371.yaml:Australia-India-2008-03-02.RData
+291372.yaml:Australia-India-2008-03-04.RData
+293071.yaml:Ireland-India-2007-06-23.RData
+293072.yaml:Ireland-South Africa-2007-06-24.RData
+293076.yaml:India-South Africa-2007-06-26.RData
+293077.yaml:India-South Africa-2007-06-29.RData
+293078.yaml:India-South Africa-2007-07-01.RData
+293481.yaml:Sri Lanka-Bangladesh-2007-07-20.RData
+293482.yaml:Sri Lanka-Bangladesh-2007-07-23.RData
+293483.yaml:Sri Lanka-Bangladesh-2007-07-25.RData
+295785.yaml:Netherlands-Scotland-2007-07-13.RData
+295788.yaml:Ireland-West Indies-2007-07-14.RData
+296685.yaml:Kenya-Canada-2007-10-18.RData
+296687.yaml:Kenya-Canada-2007-10-20.RData
+296904.yaml:England-New Zealand-2008-06-15.RData
+296905.yaml:England-New Zealand-2008-06-18.RData
+296906.yaml:England-New Zealand-2008-06-21.RData
+296907.yaml:England-New Zealand-2008-06-25.RData
+296908.yaml:England-New Zealand-2008-06-28.RData
+296914.yaml:England-South Africa-2008-08-22.RData
+296915.yaml:England-South Africa-2008-08-26.RData
+296916.yaml:England-South Africa-2008-08-29.RData
+296917.yaml:England-South Africa-2008-08-31.RData
+296918.yaml:England-South Africa-2008-09-03.RData
+297793.yaml:India-Australia-2007-09-29.RData
+297794.yaml:India-Australia-2007-10-02.RData
+297795.yaml:India-Australia-2007-10-05.RData
+297796.yaml:India-Australia-2007-10-08.RData
+297797.yaml:India-Australia-2007-10-11.RData
+297798.yaml:India-Australia-2007-10-14.RData
+297799.yaml:India-Australia-2007-10-17.RData
+297801.yaml:India-Pakistan-2007-11-05.RData
+297802.yaml:India-Pakistan-2007-11-08.RData
+297803.yaml:India-Pakistan-2007-11-11.RData
+297804.yaml:India-Pakistan-2007-11-15.RData
+297805.yaml:India-Pakistan-2007-11-18.RData
+298796.yaml:South Africa-New Zealand-2007-11-25.RData
+298797.yaml:South Africa-New Zealand-2007-11-30.RData
+298798.yaml:South Africa-New Zealand-2007-12-02.RData
+298805.yaml:South Africa-West Indies-2008-01-20.RData
+298806.yaml:South Africa-West Indies-2008-01-25.RData
+298807.yaml:South Africa-West Indies-2008-01-27.RData
+298808.yaml:South Africa-West Indies-2008-02-01.RData
+298809.yaml:South Africa-West Indies-2008-02-03.RData
+299006.yaml:Pakistan-South Africa-2007-10-18.RData
+299007.yaml:Pakistan-South Africa-2007-10-20.RData
+299008.yaml:Pakistan-South Africa-2007-10-23.RData
+299009.yaml:Pakistan-South Africa-2007-10-26.RData
+299010.yaml:Pakistan-South Africa-2007-10-29.RData
+300426.yaml:New Zealand-Bangladesh-2007-12-26.RData
+300427.yaml:New Zealand-Bangladesh-2007-12-28.RData
+300428.yaml:New Zealand-Bangladesh-2007-12-31.RData
+300437.yaml:New Zealand-England-2008-02-09.RData
+300438.yaml:New Zealand-England-2008-02-12.RData
+300439.yaml:New Zealand-England-2008-02-15.RData
+300440.yaml:New Zealand-England-2008-02-20.RData
+300441.yaml:New Zealand-England-2008-02-23.RData
+300487.yaml:Zimbabwe-South Africa-2007-08-25.RData
+300488.yaml:Zimbabwe-South Africa-2007-08-26.RData
+313992.yaml:Kenya-Bermuda-2007-10-25.RData
+313993.yaml:Kenya-Bermuda-2007-10-27.RData
+313994.yaml:Kenya-Bermuda-2007-10-28.RData
+317578.yaml:Zimbabwe-West Indies-2007-11-30.RData
+317579.yaml:Zimbabwe-West Indies-2007-12-02.RData
+317581.yaml:Zimbabwe-West Indies-2007-12-07.RData
+319135.yaml:West Indies-Sri Lanka-2008-04-12.RData
+319136.yaml:West Indies-Sri Lanka-2008-04-15.RData
+319143.yaml:West Indies-Australia-2008-06-24.RData
+319144.yaml:West Indies-Australia-2008-06-27.RData
+319145.yaml:West Indies-Australia-2008-06-29.RData
+319146.yaml:West Indies-Australia-2008-07-04.RData
+319147.yaml:West Indies-Australia-2008-07-06.RData
+323949.yaml:Bangladesh-South Africa-2008-03-09.RData
+323951.yaml:Bangladesh-South Africa-2008-03-14.RData
+325569.yaml:Canada-Bermuda-2008-06-29.RData
+325572.yaml:Scotland-Kenya-2008-08-12.RData
+325576.yaml:Ireland-Kenya-2008-08-25.RData
+325579.yaml:Netherlands-Scotland-2008-07-29.RData
+325580.yaml:Ireland-Scotland-2008-07-31.RData
+325581.yaml:Ireland-Zimbabwe-2008-10-17.RData
+325800.yaml:Pakistan-Zimbabwe-2008-01-21.RData
+325801.yaml:Pakistan-Zimbabwe-2008-01-24.RData
+325802.yaml:Pakistan-Zimbabwe-2008-01-27.RData
+325803.yaml:Pakistan-Zimbabwe-2008-01-30.RData
+325804.yaml:Pakistan-Zimbabwe-2008-02-02.RData
+335346.yaml:Bangladesh-United Arab Emirates-2008-06-24.RData
+335347.yaml:Pakistan-Hong Kong-2008-06-24.RData
+335348.yaml:Bangladesh-Sri Lanka-2008-06-25.RData
+335349.yaml:Hong Kong-India-2008-06-25.RData
+335350.yaml:Sri Lanka-United Arab Emirates-2008-06-26.RData
+335351.yaml:Pakistan-India-2008-06-26.RData
+335352.yaml:Bangladesh-India-2008-06-28.RData
+335353.yaml:Pakistan-Sri Lanka-2008-06-29.RData
+335354.yaml:Bangladesh-Sri Lanka-2008-06-30.RData
+335355.yaml:Pakistan-India-2008-07-02.RData
+335356.yaml:India-Sri Lanka-2008-07-03.RData
+335357.yaml:Pakistan-Bangladesh-2008-07-04.RData
+335358.yaml:India-Sri Lanka-2008-07-06.RData
+336201.yaml:Australia-Bangladesh-2008-08-30.RData
+336202.yaml:Australia-Bangladesh-2008-09-03.RData
+336204.yaml:Australia-Bangladesh-2008-09-06.RData
+343732.yaml:Sri Lanka-India-2008-08-18.RData
+343733.yaml:Sri Lanka-India-2008-08-20.RData
+343734.yaml:Sri Lanka-India-2008-08-24.RData
+343736.yaml:Sri Lanka-India-2008-08-29.RData
+343759.yaml:Pakistan-Bangladesh-2008-04-08.RData
+343760.yaml:Pakistan-Bangladesh-2008-04-11.RData
+343761.yaml:Pakistan-Bangladesh-2008-04-13.RData
+343762.yaml:Pakistan-Bangladesh-2008-04-16.RData
+343763.yaml:Pakistan-Bangladesh-2008-04-19.RData
+345468.yaml:Bangladesh-Pakistan-2008-06-08.RData
+345469.yaml:India-Pakistan-2008-06-10.RData
+345470.yaml:Bangladesh-India-2008-06-12.RData
+345471.yaml:India-Pakistan-2008-06-14.RData
+350043.yaml:England-Australia-2009-09-04.RData
+350044.yaml:England-Australia-2009-09-06.RData
+350045.yaml:England-Australia-2009-09-09.RData
+350046.yaml:England-Australia-2009-09-12.RData
+350047.yaml:England-Australia-2009-09-15.RData
+350048.yaml:England-Australia-2009-09-17.RData
+350049.yaml:England-Australia-2009-09-20.RData
+350477.yaml:South Africa-Australia-2009-04-03.RData
+350478.yaml:South Africa-Australia-2009-04-05.RData
+350479.yaml:South Africa-Australia-2009-04-09.RData
+350480.yaml:South Africa-Australia-2009-04-13.RData
+350481.yaml:South Africa-Australia-2009-04-17.RData
+351684.yaml:Australia-South Africa-2009-01-16.RData
+351685.yaml:Australia-South Africa-2009-01-18.RData
+351686.yaml:Australia-South Africa-2009-01-23.RData
+351687.yaml:Australia-South Africa-2009-01-26.RData
+351688.yaml:Australia-South Africa-2009-01-30.RData
+351689.yaml:Australia-New Zealand-2009-02-01.RData
+351690.yaml:Australia-New Zealand-2009-02-06.RData
+351691.yaml:Australia-New Zealand-2009-02-08.RData
+351692.yaml:Australia-New Zealand-2009-02-10.RData
+351693.yaml:Australia-New Zealand-2009-02-13.RData
+352665.yaml:West Indies-England-2009-03-20.RData
+352666.yaml:West Indies-England-2009-03-22.RData
+352667.yaml:West Indies-England-2009-03-27.RData
+352668.yaml:West Indies-England-2009-03-29.RData
+352669.yaml:West Indies-England-2009-04-03.RData
+360800.yaml:South Africa-Kenya-2008-10-31.RData
+361043.yaml:India-England-2008-11-14.RData
+361044.yaml:India-England-2008-11-17.RData
+361045.yaml:India-England-2008-11-20.RData
+361046.yaml:India-England-2008-11-23.RData
+361047.yaml:India-England-2008-11-26.RData
+366341.yaml:Sri Lanka-India-2008-08-27.RData
+366623.yaml:New Zealand-India-2009-03-03.RData
+366624.yaml:New Zealand-India-2009-03-11.RData
+366625.yaml:New Zealand-India-2009-03-14.RData
+366626.yaml:New Zealand-India-2009-03-06.RData
+366627.yaml:New Zealand-India-2009-03-08.RData
+366709.yaml:New Zealand-West Indies-2008-12-31.RData
+366711.yaml:New Zealand-West Indies-2009-01-07.RData
+374059.yaml:Pakistan-West Indies-2008-11-12.RData
+374060.yaml:Pakistan-West Indies-2008-11-14.RData
+375456.yaml:Zimbabwe-Sri Lanka-2008-11-20.RData
+375457.yaml:Zimbabwe-Sri Lanka-2008-11-22.RData
+375460.yaml:Zimbabwe-Sri Lanka-2008-11-24.RData
+375462.yaml:Zimbabwe-Sri Lanka-2008-11-30.RData
+377313.yaml:West Indies-India-2009-06-26.RData
+377314.yaml:West Indies-India-2009-06-28.RData
+377315.yaml:West Indies-India-2009-07-03.RData
+377316.yaml:West Indies-India-2009-07-05.RData
+378753.yaml:Bangladesh-Zimbabwe-2009-01-10.RData
+378755.yaml:Bangladesh-Sri Lanka-2009-01-14.RData
+378759.yaml:Bangladesh-Zimbabwe-2009-01-23.RData
+380715.yaml:England-West Indies-2009-05-24.RData
+380716.yaml:England-West Indies-2009-05-26.RData
+383275.yaml:Ireland-England-2009-08-27.RData
+385025.yaml:Kenya-Zimbabwe-2009-01-31.RData
+385749.yaml:Pakistan-Sri Lanka-2009-01-20.RData
+385750.yaml:Pakistan-Sri Lanka-2009-01-21.RData
+385751.yaml:Pakistan-Sri Lanka-2009-01-24.RData
+386532.yaml:Sri Lanka-India-2009-02-03.RData
+386533.yaml:Sri Lanka-India-2009-02-05.RData
+386534.yaml:Sri Lanka-India-2009-02-08.RData
+387566.yaml:South Africa-England-2009-11-22.RData
+387567.yaml:South Africa-England-2009-11-27.RData
+387568.yaml:South Africa-England-2009-11-29.RData
+390204.yaml:Ireland-Scotland-2009-04-01.RData
+390227.yaml:Canada-Scotland-2009-04-08.RData
+390253.yaml:Afghanistan-Scotland-2009-04-19.RData
+392616.yaml:Australia-Pakistan-2009-04-22.RData
+392617.yaml:Australia-Pakistan-2009-04-24.RData
+392618.yaml:Australia-Pakistan-2009-04-27.RData
+392619.yaml:Australia-Pakistan-2009-05-01.RData
+392620.yaml:Australia-Pakistan-2009-05-03.RData
+401073.yaml:West Indies-Bangladesh-2009-07-26.RData
+401074.yaml:West Indies-Bangladesh-2009-07-28.RData
+401075.yaml:West Indies-Bangladesh-2009-07-31.RData
+403370.yaml:Sri Lanka-Pakistan-2009-07-30.RData
+403371.yaml:Sri Lanka-Pakistan-2009-08-01.RData
+403372.yaml:Sri Lanka-Pakistan-2009-08-03.RData
+403373.yaml:Sri Lanka-Pakistan-2009-08-07.RData
+403374.yaml:Sri Lanka-Pakistan-2009-08-09.RData
+403380.yaml:Sri Lanka-New Zealand-2009-09-08.RData
+403381.yaml:Sri Lanka-India-2009-09-12.RData
+403382.yaml:India-New Zealand-2009-09-11.RData
+403383.yaml:Sri Lanka-India-2009-09-14.RData
+406192.yaml:Australia-West Indies-2010-02-07.RData
+406193.yaml:Australia-West Indies-2010-02-09.RData
+406194.yaml:Australia-West Indies-2010-02-12.RData
+406195.yaml:Australia-West Indies-2010-02-14.RData
+406196.yaml:Australia-West Indies-2010-02-19.RData
+406202.yaml:Australia-Pakistan-2010-01-22.RData
+406203.yaml:Australia-Pakistan-2010-01-24.RData
+406204.yaml:Australia-Pakistan-2010-01-26.RData
+406205.yaml:Australia-Pakistan-2010-01-29.RData
+406206.yaml:Australia-Pakistan-2010-01-31.RData
+410337.yaml:Zimbabwe-Bangladesh-2009-08-09.RData
+410339.yaml:Zimbabwe-Bangladesh-2009-08-14.RData
+410340.yaml:Zimbabwe-Bangladesh-2009-08-16.RData
+410341.yaml:Zimbabwe-Bangladesh-2009-08-18.RData
+415162.yaml:Canada-Kenya-2009-08-19.RData
+415273.yaml:South Africa-Sri Lanka-2009-09-22.RData
+415274.yaml:Pakistan-West Indies-2009-09-23.RData
+415275.yaml:South Africa-New Zealand-2009-09-24.RData
+415276.yaml:England-Sri Lanka-2009-09-25.RData
+415277.yaml:Australia-West Indies-2009-09-26.RData
+415278.yaml:India-Pakistan-2009-09-26.RData
+415279.yaml:New Zealand-Sri Lanka-2009-09-27.RData
+415280.yaml:South Africa-England-2009-09-27.RData
+415281.yaml:Australia-India-2009-09-28.RData
+415282.yaml:England-New Zealand-2009-09-29.RData
+415283.yaml:Australia-Pakistan-2009-09-30.RData
+415284.yaml:India-West Indies-2009-09-30.RData
+415285.yaml:Australia-England-2009-10-02.RData
+415286.yaml:New Zealand-Pakistan-2009-10-03.RData
+415287.yaml:Australia-New Zealand-2009-10-05.RData
+416236.yaml:India-Australia-2009-10-25.RData
+416237.yaml:India-Australia-2009-10-28.RData
+416238.yaml:India-Australia-2009-10-31.RData
+416239.yaml:India-Australia-2009-11-02.RData
+416240.yaml:India-Australia-2009-11-05.RData
+416241.yaml:India-Australia-2009-11-08.RData
+422626.yaml:Bangladesh-Zimbabwe-2009-10-27.RData
+422627.yaml:Bangladesh-Zimbabwe-2009-10-29.RData
+422628.yaml:Bangladesh-Zimbabwe-2009-10-31.RData
+422629.yaml:Bangladesh-Zimbabwe-2009-11-03.RData
+422630.yaml:Bangladesh-Zimbabwe-2009-11-05.RData
+423783.yaml:New Zealand-Bangladesh-2010-02-05.RData
+423784.yaml:New Zealand-Bangladesh-2010-02-08.RData
+423785.yaml:New Zealand-Bangladesh-2010-02-11.RData
+423791.yaml:New Zealand-Australia-2010-03-03.RData
+423792.yaml:New Zealand-Australia-2010-03-06.RData
+423793.yaml:New Zealand-Australia-2010-03-09.RData
+423794.yaml:New Zealand-Australia-2010-03-11.RData
+423795.yaml:New Zealand-Australia-2010-03-13.RData
+426384.yaml:Ireland-Australia-2010-06-17.RData
+426387.yaml:England-Australia-2010-06-22.RData
+426388.yaml:England-Australia-2010-06-24.RData
+426389.yaml:England-Australia-2010-06-27.RData
+426390.yaml:England-Australia-2010-06-30.RData
+426391.yaml:England-Australia-2010-07-03.RData
+426403.yaml:England-Bangladesh-2010-07-08.RData
+426405.yaml:England-Bangladesh-2010-07-12.RData
+426420.yaml:Bangladesh-England-2010-02-28.RData
+426421.yaml:Bangladesh-England-2010-03-02.RData
+426422.yaml:Bangladesh-England-2010-03-05.RData
+426428.yaml:England-Pakistan-2010-09-10.RData
+426429.yaml:England-Pakistan-2010-09-12.RData
+426430.yaml:England-Pakistan-2010-09-17.RData
+426431.yaml:England-Pakistan-2010-09-20.RData
+426432.yaml:England-Pakistan-2010-09-22.RData
+426720.yaml:New Zealand-Pakistan-2009-11-03.RData
+426721.yaml:New Zealand-Pakistan-2009-11-06.RData
+426722.yaml:New Zealand-Pakistan-2009-11-09.RData
+430508.yaml:South Africa-Zimbabwe-2009-11-08.RData
+430509.yaml:South Africa-Zimbabwe-2009-11-10.RData
+430886.yaml:India-Sri Lanka-2009-12-15.RData
+430887.yaml:India-Sri Lanka-2009-12-18.RData
+430888.yaml:India-Sri Lanka-2009-12-21.RData
+430889.yaml:India-Sri Lanka-2009-12-24.RData
+430890.yaml:India-Sri Lanka-2009-12-27.RData
+433558.yaml:Bangladesh-India-2011-02-19.RData
+433559.yaml:Kenya-New Zealand-2011-02-20.RData
+433560.yaml:Sri Lanka-Canada-2011-02-20.RData
+433561.yaml:Australia-Zimbabwe-2011-02-21.RData
+433562.yaml:England-Netherlands-2011-02-22.RData
+433563.yaml:Kenya-Pakistan-2011-02-23.RData
+433564.yaml:South Africa-West Indies-2011-02-24.RData
+433565.yaml:Australia-New Zealand-2011-02-25.RData
+433566.yaml:Bangladesh-Ireland-2011-02-25.RData
+433568.yaml:India-England-2011-02-27.RData
+433569.yaml:Netherlands-West Indies-2011-02-28.RData
+433570.yaml:Canada-Zimbabwe-2011-02-28.RData
+433571.yaml:Sri Lanka-Kenya-2011-03-01.RData
+433572.yaml:England-Ireland-2011-03-02.RData
+433573.yaml:Netherlands-South Africa-2011-03-03.RData
+433574.yaml:Canada-Pakistan-2011-03-03.RData
+433575.yaml:New Zealand-Zimbabwe-2011-03-04.RData
+433576.yaml:Bangladesh-West Indies-2011-03-04.RData
+433577.yaml:Sri Lanka-Australia-2011-03-05.RData
+433578.yaml:India-Ireland-2011-03-06.RData
+433579.yaml:England-South Africa-2011-03-06.RData
+433580.yaml:Canada-Kenya-2011-03-07.RData
+433581.yaml:New Zealand-Pakistan-2011-03-08.RData
+433582.yaml:India-Netherlands-2011-03-09.RData
+433583.yaml:Sri Lanka-Zimbabwe-2011-03-10.RData
+433584.yaml:Ireland-West Indies-2011-03-11.RData
+433585.yaml:Bangladesh-England-2011-03-11.RData
+433586.yaml:India-South Africa-2011-03-12.RData
+433587.yaml:Canada-New Zealand-2011-03-13.RData
+433588.yaml:Australia-Kenya-2011-03-13.RData
+433589.yaml:Pakistan-Zimbabwe-2011-03-14.RData
+433590.yaml:Bangladesh-Netherlands-2011-03-14.RData
+433591.yaml:Ireland-South Africa-2011-03-15.RData
+433592.yaml:Australia-Canada-2011-03-16.RData
+433593.yaml:England-West Indies-2011-03-17.RData
+433595.yaml:Ireland-Netherlands-2011-03-18.RData
+433596.yaml:Australia-Pakistan-2011-03-19.RData
+433597.yaml:Bangladesh-South Africa-2011-03-19.RData
+433598.yaml:Kenya-Zimbabwe-2011-03-20.RData
+433599.yaml:India-West Indies-2011-03-20.RData
+433600.yaml:Pakistan-West Indies-2011-03-23.RData
+433601.yaml:India-Australia-2011-03-24.RData
+433602.yaml:New Zealand-South Africa-2011-03-25.RData
+433603.yaml:Sri Lanka-England-2011-03-26.RData
+433604.yaml:Sri Lanka-New Zealand-2011-03-29.RData
+433605.yaml:India-Pakistan-2011-03-30.RData
+433606.yaml:India-Sri Lanka-2011-04-02.RData
+434258.yaml:Bangladesh-Sri Lanka-2010-01-04.RData
+434259.yaml:India-Sri Lanka-2010-01-05.RData
+434260.yaml:Bangladesh-India-2010-01-07.RData
+434261.yaml:Bangladesh-Sri Lanka-2010-01-08.RData
+434262.yaml:India-Sri Lanka-2010-01-10.RData
+434263.yaml:Bangladesh-India-2010-01-11.RData
+434264.yaml:India-Sri Lanka-2010-01-13.RData
+439140.yaml:West Indies-Zimbabwe-2010-03-04.RData
+439141.yaml:West Indies-Zimbabwe-2010-03-06.RData
+439143.yaml:West Indies-Zimbabwe-2010-03-12.RData
+439144.yaml:West Indies-Zimbabwe-2010-03-14.RData
+439147.yaml:West Indies-South Africa-2010-05-22.RData
+439148.yaml:West Indies-South Africa-2010-05-24.RData
+439149.yaml:West Indies-South Africa-2010-05-28.RData
+439150.yaml:West Indies-South Africa-2010-05-30.RData
+439151.yaml:West Indies-South Africa-2010-06-03.RData
+441827.yaml:India-South Africa-2010-02-21.RData
+441828.yaml:India-South Africa-2010-02-24.RData
+441829.yaml:India-South Africa-2010-02-27.RData
+446957.yaml:Australia-Sri Lanka-2010-11-03.RData
+446958.yaml:Australia-Sri Lanka-2010-11-05.RData
+446959.yaml:Australia-Sri Lanka-2010-11-07.RData
+446962.yaml:Australia-England-2011-01-16.RData
+446963.yaml:Australia-England-2011-01-21.RData
+446964.yaml:Australia-England-2011-01-23.RData
+446965.yaml:Australia-England-2011-01-26.RData
+446966.yaml:Australia-England-2011-01-30.RData
+446967.yaml:Australia-England-2011-02-02.RData
+446968.yaml:Australia-England-2011-02-06.RData
+450107.yaml:Ireland-Bangladesh-2010-07-16.RData
+450379.yaml:Canada-Ireland-2010-07-07.RData
+450498.yaml:Scotland-Afghanistan-2010-08-16.RData
+450501.yaml:Scotland-Afghanistan-2010-08-17.RData
+452146.yaml:Zimbabwe-India-2010-05-28.RData
+452147.yaml:India-Sri Lanka-2010-05-30.RData
+452148.yaml:Zimbabwe-Sri Lanka-2010-06-01.RData
+452149.yaml:Zimbabwe-India-2010-06-03.RData
+452150.yaml:India-Sri Lanka-2010-06-05.RData
+452151.yaml:Zimbabwe-Sri Lanka-2010-06-07.RData
+452152.yaml:Zimbabwe-Sri Lanka-2010-06-09.RData
+455231.yaml:Sri Lanka-Pakistan-2010-06-15.RData
+455232.yaml:Bangladesh-India-2010-06-16.RData
+455233.yaml:Sri Lanka-Bangladesh-2010-06-18.RData
+455234.yaml:India-Pakistan-2010-06-19.RData
+455235.yaml:Bangladesh-Pakistan-2010-06-21.RData
+455236.yaml:Sri Lanka-India-2010-06-22.RData
+455237.yaml:Sri Lanka-India-2010-06-24.RData
+456662.yaml:India-New Zealand-2010-08-10.RData
+456663.yaml:Sri Lanka-India-2010-08-16.RData
+456664.yaml:Sri Lanka-New Zealand-2010-08-13.RData
+456665.yaml:India-New Zealand-2010-08-25.RData
+456666.yaml:Sri Lanka-India-2010-08-22.RData
+456668.yaml:Sri Lanka-India-2010-08-28.RData
+461566.yaml:Pakistan-South Africa-2010-10-29.RData
+461567.yaml:Pakistan-South Africa-2010-10-31.RData
+461568.yaml:Pakistan-South Africa-2010-11-02.RData
+461569.yaml:Pakistan-South Africa-2010-11-05.RData
+461570.yaml:Pakistan-South Africa-2010-11-08.RData
+463143.yaml:South Africa-Zimbabwe-2010-10-15.RData
+463144.yaml:South Africa-Zimbabwe-2010-10-17.RData
+463145.yaml:South Africa-Zimbabwe-2010-10-22.RData
+463150.yaml:South Africa-India-2011-01-12.RData
+463151.yaml:South Africa-India-2011-01-15.RData
+463152.yaml:South Africa-India-2011-01-18.RData
+463153.yaml:South Africa-India-2011-01-21.RData
+463154.yaml:South Africa-India-2011-01-23.RData
+464529.yaml:India-Australia-2010-10-20.RData
+464720.yaml:Ireland-Netherlands-2010-08-18.RData
+464723.yaml:Canada-Ireland-2010-09-06.RData
+464990.yaml:Sri Lanka-West Indies-2011-01-31.RData
+464991.yaml:Sri Lanka-West Indies-2011-02-03.RData
+464992.yaml:Sri Lanka-West Indies-2011-02-06.RData
+467883.yaml:India-New Zealand-2010-11-28.RData
+467884.yaml:India-New Zealand-2010-12-01.RData
+467885.yaml:India-New Zealand-2010-12-04.RData
+467886.yaml:India-New Zealand-2010-12-07.RData
+467887.yaml:India-New Zealand-2010-12-10.RData
+473315.yaml:Sri Lanka-New Zealand-2010-08-19.RData
+473923.yaml:New Zealand-Pakistan-2011-01-22.RData
+473924.yaml:New Zealand-Pakistan-2011-01-26.RData
+473925.yaml:New Zealand-Pakistan-2011-01-29.RData
+473926.yaml:New Zealand-Pakistan-2011-02-01.RData
+473927.yaml:New Zealand-Pakistan-2011-02-03.RData
+473928.yaml:New Zealand-Pakistan-2011-02-05.RData
+474467.yaml:England-Sri Lanka-2011-06-28.RData
+474468.yaml:England-Sri Lanka-2011-07-01.RData
+474469.yaml:England-Sri Lanka-2011-07-03.RData
+474470.yaml:England-Sri Lanka-2011-07-06.RData
+474477.yaml:England-India-2011-09-03.RData
+474478.yaml:England-India-2011-09-06.RData
+474479.yaml:England-India-2011-09-09.RData
+474480.yaml:England-India-2011-09-11.RData
+474481.yaml:England-India-2011-09-16.RData
+476596.yaml:Bangladesh-New Zealand-2010-10-05.RData
+476598.yaml:Bangladesh-New Zealand-2010-10-11.RData
+476600.yaml:Bangladesh-New Zealand-2010-10-17.RData
+483126.yaml:Ireland-England-2011-08-25.RData
+486520.yaml:Bangladesh-Zimbabwe-2010-12-01.RData
+486522.yaml:Bangladesh-Zimbabwe-2010-12-03.RData
+486523.yaml:Bangladesh-Zimbabwe-2010-12-06.RData
+486526.yaml:Bangladesh-Zimbabwe-2010-12-12.RData
+489213.yaml:West Indies-Pakistan-2011-04-23.RData
+489214.yaml:West Indies-Pakistan-2011-04-25.RData
+489215.yaml:West Indies-Pakistan-2011-04-28.RData
+489217.yaml:West Indies-Pakistan-2011-05-05.RData
+489221.yaml:West Indies-India-2011-06-06.RData
+489222.yaml:West Indies-India-2011-06-08.RData
+489223.yaml:West Indies-India-2011-06-11.RData
+489224.yaml:West Indies-India-2011-06-13.RData
+489225.yaml:West Indies-India-2011-06-16.RData
+503363.yaml:Bangladesh-Australia-2011-04-09.RData
+503364.yaml:Bangladesh-Australia-2011-04-11.RData
+503365.yaml:Bangladesh-Australia-2011-04-13.RData
+504779.yaml:Scotland-Netherlands-2011-06-29.RData
+514025.yaml:South Africa-Australia-2011-10-19.RData
+514026.yaml:South Africa-Australia-2011-10-23.RData
+514027.yaml:South Africa-Australia-2011-10-28.RData
+514035.yaml:South Africa-Sri Lanka-2012-01-11.RData
+514036.yaml:South Africa-Sri Lanka-2012-01-14.RData
+514037.yaml:South Africa-Sri Lanka-2012-01-17.RData
+514038.yaml:South Africa-Sri Lanka-2012-01-20.RData
+514039.yaml:South Africa-Sri Lanka-2012-01-22.RData
+516206.yaml:Sri Lanka-Australia-2011-08-10.RData
+516207.yaml:Sri Lanka-Australia-2011-08-14.RData
+516208.yaml:Sri Lanka-Australia-2011-08-16.RData
+516209.yaml:Sri Lanka-Australia-2011-08-20.RData
+516210.yaml:Sri Lanka-Australia-2011-08-22.RData
+518956.yaml:Australia-India-2012-02-05.RData
+518957.yaml:India-Sri Lanka-2012-02-08.RData
+518958.yaml:Australia-Sri Lanka-2012-02-10.RData
+518959.yaml:Australia-India-2012-02-12.RData
+518960.yaml:India-Sri Lanka-2012-02-14.RData
+518961.yaml:Australia-Sri Lanka-2012-02-17.RData
+518962.yaml:Australia-India-2012-02-19.RData
+518963.yaml:India-Sri Lanka-2012-02-21.RData
+518964.yaml:Australia-Sri Lanka-2012-02-24.RData
+518965.yaml:Australia-India-2012-02-26.RData
+518966.yaml:India-Sri Lanka-2012-02-28.RData
+518967.yaml:Australia-Sri Lanka-2012-03-02.RData
+518968.yaml:Australia-Sri Lanka-2012-03-04.RData
+518969.yaml:Australia-Sri Lanka-2012-03-06.RData
+518970.yaml:Australia-Sri Lanka-2012-03-08.RData
+520592.yaml:New Zealand-Zimbabwe-2012-02-03.RData
+520593.yaml:New Zealand-Zimbabwe-2012-02-06.RData
+520600.yaml:New Zealand-South Africa-2012-02-25.RData
+520601.yaml:New Zealand-South Africa-2012-02-29.RData
+520602.yaml:New Zealand-South Africa-2012-03-03.RData
+521218.yaml:India-England-2011-10-14.RData
+521219.yaml:India-England-2011-10-17.RData
+521220.yaml:India-England-2011-10-20.RData
+521221.yaml:India-England-2011-10-23.RData
+521222.yaml:India-England-2011-10-25.RData
+522246.yaml:Zimbabwe-Bangladesh-2011-08-12.RData
+522247.yaml:Zimbabwe-Bangladesh-2011-08-14.RData
+522248.yaml:Zimbabwe-Bangladesh-2011-08-16.RData
+522249.yaml:Zimbabwe-Bangladesh-2011-08-19.RData
+522250.yaml:Zimbabwe-Bangladesh-2011-08-21.RData
+523732.yaml:Zimbabwe-Pakistan-2011-09-08.RData
+523733.yaml:Zimbabwe-Pakistan-2011-09-11.RData
+523734.yaml:Zimbabwe-Pakistan-2011-09-14.RData
+523804.yaml:Ireland-Canada-2011-09-19.RData
+523805.yaml:Ireland-Canada-2011-09-20.RData
+527014.yaml:Zimbabwe-New Zealand-2011-10-20.RData
+527015.yaml:Zimbabwe-New Zealand-2011-10-22.RData
+527016.yaml:Zimbabwe-New Zealand-2011-10-25.RData
+530427.yaml:Pakistan-Sri Lanka-2011-11-11.RData
+530428.yaml:Pakistan-Sri Lanka-2011-11-14.RData
+530429.yaml:Pakistan-Sri Lanka-2011-11-18.RData
+530430.yaml:Pakistan-Sri Lanka-2011-11-20.RData
+530431.yaml:Pakistan-Sri Lanka-2011-11-23.RData
+531631.yaml:England-Pakistan-2012-02-13.RData
+531632.yaml:England-Pakistan-2012-02-15.RData
+531633.yaml:England-Pakistan-2012-02-18.RData
+531634.yaml:England-Pakistan-2012-02-21.RData
+531983.yaml:Bangladesh-West Indies-2011-10-13.RData
+531984.yaml:Bangladesh-West Indies-2011-10-15.RData
+531985.yaml:Bangladesh-West Indies-2011-10-18.RData
+534209.yaml:England-West Indies-2012-06-16.RData
+534210.yaml:England-West Indies-2012-06-19.RData
+534214.yaml:Ireland-Australia-2012-06-23.RData
+534215.yaml:England-Australia-2012-06-29.RData
+534216.yaml:England-Australia-2012-07-01.RData
+534218.yaml:England-Australia-2012-07-07.RData
+534219.yaml:England-Australia-2012-07-10.RData
+534228.yaml:England-South Africa-2012-08-24.RData
+534229.yaml:England-South Africa-2012-08-28.RData
+534230.yaml:England-South Africa-2012-08-31.RData
+534231.yaml:England-South Africa-2012-09-02.RData
+534232.yaml:England-South Africa-2012-09-05.RData
+535794.yaml:Bangladesh-Pakistan-2012-03-11.RData
+535795.yaml:India-Sri Lanka-2012-03-13.RData
+535796.yaml:Pakistan-Sri Lanka-2012-03-15.RData
+535797.yaml:Bangladesh-India-2012-03-16.RData
+535798.yaml:India-Pakistan-2012-03-18.RData
+535799.yaml:Bangladesh-Sri Lanka-2012-03-20.RData
+535800.yaml:Bangladesh-Pakistan-2012-03-22.RData
+536930.yaml:India-West Indies-2011-12-02.RData
+536931.yaml:India-West Indies-2011-12-05.RData
+536932.yaml:India-West Indies-2011-12-08.RData
+536933.yaml:India-West Indies-2011-12-11.RData
+538069.yaml:Bangladesh-Pakistan-2011-12-01.RData
+538070.yaml:Bangladesh-Pakistan-2011-12-03.RData
+538071.yaml:Bangladesh-Pakistan-2011-12-06.RData
+540168.yaml:West Indies-Australia-2012-03-16.RData
+540169.yaml:West Indies-Australia-2012-03-18.RData
+540170.yaml:West Indies-Australia-2012-03-20.RData
+540171.yaml:West Indies-Australia-2012-03-23.RData
+540172.yaml:West Indies-Australia-2012-03-25.RData
+543881.yaml:Kenya-Ireland-2012-02-18.RData
+543882.yaml:Kenya-Ireland-2012-02-20.RData
+543888.yaml:Afghanistan-Netherlands-2012-03-29.RData
+545656.yaml:Afghanistan-Pakistan-2012-02-10.RData
+555892.yaml:Ireland-Afghanistan-2012-07-05.RData
+560923.yaml:West Indies-New Zealand-2012-07-05.RData
+560924.yaml:West Indies-New Zealand-2012-07-07.RData
+560925.yaml:West Indies-New Zealand-2012-07-11.RData
+560926.yaml:West Indies-New Zealand-2012-07-14.RData
+560927.yaml:West Indies-New Zealand-2012-07-16.RData
+562439.yaml:Sri Lanka-Pakistan-2012-06-07.RData
+562440.yaml:Sri Lanka-Pakistan-2012-06-09.RData
+562441.yaml:Sri Lanka-Pakistan-2012-06-13.RData
+562442.yaml:Sri Lanka-Pakistan-2012-06-16.RData
+562443.yaml:Sri Lanka-Pakistan-2012-06-18.RData
+564781.yaml:Sri Lanka-India-2012-07-21.RData
+564782.yaml:Sri Lanka-India-2012-07-24.RData
+564783.yaml:Sri Lanka-India-2012-07-28.RData
+564784.yaml:Sri Lanka-India-2012-07-31.RData
+565812.yaml:India-England-2013-01-11.RData
+565813.yaml:India-England-2013-01-15.RData
+565814.yaml:India-England-2013-01-19.RData
+565815.yaml:India-England-2013-01-23.RData
+565816.yaml:India-England-2013-01-27.RData
+566923.yaml:England-New Zealand-2013-05-31.RData
+566924.yaml:England-New Zealand-2013-06-02.RData
+566925.yaml:England-New Zealand-2013-06-05.RData
+566940.yaml:Ireland-England-2013-09-03.RData
+566942.yaml:England-Australia-2013-09-08.RData
+566943.yaml:England-Australia-2013-09-11.RData
+566944.yaml:England-Australia-2013-09-14.RData
+566945.yaml:England-Australia-2013-09-16.RData
+566946.yaml:England-South Africa-2013-06-19.RData
+566947.yaml:India-Sri Lanka-2013-06-20.RData
+566948.yaml:England-India-2013-06-23.RData
+567358.yaml:South Africa-New Zealand-2013-01-19.RData
+567359.yaml:South Africa-New Zealand-2013-01-22.RData
+567360.yaml:South Africa-New Zealand-2013-01-25.RData
+567368.yaml:South Africa-Pakistan-2013-03-10.RData
+567369.yaml:South Africa-Pakistan-2013-03-15.RData
+567370.yaml:South Africa-Pakistan-2013-03-17.RData
+567371.yaml:South Africa-Pakistan-2013-03-21.RData
+567372.yaml:South Africa-Pakistan-2013-03-24.RData
+569240.yaml:New Zealand-England-2013-02-17.RData
+569241.yaml:New Zealand-England-2013-02-20.RData
+569242.yaml:New Zealand-England-2013-02-23.RData
+571145.yaml:Australia-Pakistan-2012-08-28.RData
+571146.yaml:Australia-Pakistan-2012-08-31.RData
+571147.yaml:Australia-Pakistan-2012-09-03.RData
+571947.yaml:Afghanistan-Australia-2012-08-25.RData
+573014.yaml:Australia-Sri Lanka-2013-01-11.RData
+573015.yaml:Australia-Sri Lanka-2013-01-13.RData
+573016.yaml:Australia-Sri Lanka-2013-01-18.RData
+573017.yaml:Australia-Sri Lanka-2013-01-20.RData
+573018.yaml:Australia-Sri Lanka-2013-01-23.RData
+573022.yaml:Australia-West Indies-2013-02-01.RData
+573023.yaml:Australia-West Indies-2013-02-03.RData
+573024.yaml:Australia-West Indies-2013-02-06.RData
+573025.yaml:Australia-West Indies-2013-02-08.RData
+573026.yaml:Australia-West Indies-2013-02-10.RData
+578615.yaml:Pakistan-West Indies-2013-06-07.RData
+578616.yaml:England-Australia-2013-06-08.RData
+578617.yaml:New Zealand-Sri Lanka-2013-06-09.RData
+578618.yaml:Pakistan-South Africa-2013-06-10.RData
+578619.yaml:India-West Indies-2013-06-11.RData
+578620.yaml:Australia-New Zealand-2013-06-12.RData
+578621.yaml:England-Sri Lanka-2013-06-13.RData
+578622.yaml:South Africa-West Indies-2013-06-14.RData
+578623.yaml:India-Pakistan-2013-06-15.RData
+578624.yaml:England-New Zealand-2013-06-16.RData
+578625.yaml:Australia-Sri Lanka-2013-06-17.RData
+582188.yaml:Sri Lanka-New Zealand-2012-11-04.RData
+582189.yaml:Sri Lanka-New Zealand-2012-11-06.RData
+582190.yaml:Sri Lanka-New Zealand-2012-11-10.RData
+582191.yaml:Sri Lanka-New Zealand-2012-11-12.RData
+587471.yaml:Bangladesh-West Indies-2012-11-30.RData
+587472.yaml:Bangladesh-West Indies-2012-12-02.RData
+587473.yaml:Bangladesh-West Indies-2012-12-05.RData
+587474.yaml:Bangladesh-West Indies-2012-12-07.RData
+587475.yaml:Bangladesh-West Indies-2012-12-08.RData
+589308.yaml:India-Pakistan-2012-12-30.RData
+589309.yaml:India-Pakistan-2013-01-03.RData
+589310.yaml:India-Pakistan-2013-01-06.RData
+592266.yaml:Canada-Kenya-2013-03-11.RData
+593983.yaml:West Indies-Zimbabwe-2013-02-22.RData
+593985.yaml:West Indies-Zimbabwe-2013-02-26.RData
+597923.yaml:West Indies-Sri Lanka-2013-06-28.RData
+597924.yaml:West Indies-India-2013-06-30.RData
+597926.yaml:West Indies-India-2013-07-05.RData
+597927.yaml:West Indies-Sri Lanka-2013-07-07.RData
+597928.yaml:India-Sri Lanka-2013-07-09.RData
+597929.yaml:India-Sri Lanka-2013-07-11.RData
+601077.yaml:Scotland-Pakistan-2013-05-17.RData
+601612.yaml:Ireland-Pakistan-2013-05-23.RData
+601613.yaml:Ireland-Pakistan-2013-05-26.RData
+602474.yaml:Sri Lanka-Bangladesh-2013-03-23.RData
+602475.yaml:Sri Lanka-Bangladesh-2013-03-25.RData
+602476.yaml:Sri Lanka-Bangladesh-2013-03-28.RData
+623573.yaml:Zimbabwe-Bangladesh-2013-05-03.RData
+623574.yaml:Zimbabwe-Bangladesh-2013-05-05.RData
+623575.yaml:Zimbabwe-Bangladesh-2013-05-08.RData
+631138.yaml:Netherlands-Ireland-2013-07-07.RData
+635653.yaml:Sri Lanka-South Africa-2013-07-20.RData
+635654.yaml:Sri Lanka-South Africa-2013-07-23.RData
+635655.yaml:Sri Lanka-South Africa-2013-07-26.RData
+635656.yaml:Sri Lanka-South Africa-2013-07-28.RData
+635657.yaml:Sri Lanka-South Africa-2013-07-31.RData
+636159.yaml:Australia-England-2014-01-12.RData
+636160.yaml:Australia-England-2014-01-17.RData
+636161.yaml:Australia-England-2014-01-19.RData
+636162.yaml:Australia-England-2014-01-24.RData
+636163.yaml:Australia-England-2014-01-26.RData
+636533.yaml:West Indies-England-2014-02-28.RData
+636534.yaml:West Indies-England-2014-03-02.RData
+636535.yaml:West Indies-England-2014-03-05.RData
+643665.yaml:Zimbabwe-India-2013-07-24.RData
+643667.yaml:Zimbabwe-India-2013-07-26.RData
+643669.yaml:Zimbabwe-India-2013-07-28.RData
+643675.yaml:Zimbabwe-India-2013-08-01.RData
+643677.yaml:Zimbabwe-India-2013-08-03.RData
+645635.yaml:West Indies-Pakistan-2013-07-14.RData
+645637.yaml:West Indies-Pakistan-2013-07-16.RData
+645639.yaml:West Indies-Pakistan-2013-07-19.RData
+645641.yaml:West Indies-Pakistan-2013-07-21.RData
+645643.yaml:West Indies-Pakistan-2013-07-24.RData
+647249.yaml:India-Australia-2013-10-13.RData
+647253.yaml:India-Australia-2013-10-19.RData
+647255.yaml:India-Australia-2013-10-23.RData
+647259.yaml:India-Australia-2013-10-30.RData
+648651.yaml:South Africa-India-2013-12-05.RData
+648653.yaml:South Africa-India-2013-12-08.RData
+648655.yaml:South Africa-India-2013-12-11.RData
+649091.yaml:Pakistan-South Africa-2013-10-30.RData
+649093.yaml:Pakistan-South Africa-2013-11-01.RData
+649095.yaml:Pakistan-South Africa-2013-11-06.RData
+649097.yaml:Pakistan-South Africa-2013-11-08.RData
+649099.yaml:Pakistan-South Africa-2013-11-11.RData
+656399.yaml:New Zealand-Sri Lanka-2015-02-14.RData
+656401.yaml:Australia-England-2015-02-14.RData
+656403.yaml:South Africa-Zimbabwe-2015-02-15.RData
+656405.yaml:India-Pakistan-2015-02-15.RData
+656407.yaml:Ireland-West Indies-2015-02-16.RData
+656409.yaml:New Zealand-Scotland-2015-02-17.RData
+656411.yaml:Afghanistan-Bangladesh-2015-02-18.RData
+656413.yaml:United Arab Emirates-Zimbabwe-2015-02-19.RData
+656415.yaml:New Zealand-England-2015-02-20.RData
+656417.yaml:Pakistan-West Indies-2015-02-21.RData
+656421.yaml:Afghanistan-Sri Lanka-2015-02-22.RData
+656423.yaml:India-South Africa-2015-02-22.RData
+656425.yaml:England-Scotland-2015-02-23.RData
+656427.yaml:West Indies-Zimbabwe-2015-02-24.RData
+656429.yaml:Ireland-United Arab Emirates-2015-02-25.RData
+656431.yaml:Afghanistan-Scotland-2015-02-26.RData
+656433.yaml:Bangladesh-Sri Lanka-2015-02-26.RData
+656435.yaml:South Africa-West Indies-2015-02-27.RData
+656437.yaml:New Zealand-Australia-2015-02-28.RData
+656439.yaml:India-United Arab Emirates-2015-02-28.RData
+656441.yaml:England-Sri Lanka-2015-03-01.RData
+656443.yaml:Pakistan-Zimbabwe-2015-03-01.RData
+656445.yaml:Ireland-South Africa-2015-03-03.RData
+656447.yaml:Pakistan-United Arab Emirates-2015-03-04.RData
+656449.yaml:Australia-Afghanistan-2015-03-04.RData
+656451.yaml:Bangladesh-Scotland-2015-03-05.RData
+656453.yaml:India-West Indies-2015-03-06.RData
+656455.yaml:Pakistan-South Africa-2015-03-07.RData
+656457.yaml:Ireland-Zimbabwe-2015-03-07.RData
+656459.yaml:New Zealand-Afghanistan-2015-03-08.RData
+656461.yaml:Australia-Sri Lanka-2015-03-08.RData
+656463.yaml:Bangladesh-England-2015-03-09.RData
+656465.yaml:India-Ireland-2015-03-10.RData
+656467.yaml:Scotland-Sri Lanka-2015-03-11.RData
+656469.yaml:South Africa-United Arab Emirates-2015-03-12.RData
+656471.yaml:New Zealand-Bangladesh-2015-03-13.RData
+656473.yaml:Afghanistan-England-2015-03-13.RData
+656475.yaml:India-Zimbabwe-2015-03-14.RData
+656477.yaml:Australia-Scotland-2015-03-14.RData
+656479.yaml:United Arab Emirates-West Indies-2015-03-15.RData
+656481.yaml:Ireland-Pakistan-2015-03-15.RData
+656483.yaml:South Africa-Sri Lanka-2015-03-18.RData
+656485.yaml:Bangladesh-India-2015-03-19.RData
+656487.yaml:Australia-Pakistan-2015-03-20.RData
+656489.yaml:New Zealand-West Indies-2015-03-21.RData
+656491.yaml:New Zealand-South Africa-2015-03-24.RData
+656493.yaml:Australia-India-2015-03-26.RData
+656495.yaml:Australia-New Zealand-2015-03-29.RData
+657637.yaml:Pakistan-Sri Lanka-2013-12-18.RData
+657639.yaml:Pakistan-Sri Lanka-2013-12-20.RData
+657641.yaml:Pakistan-Sri Lanka-2013-12-22.RData
+657643.yaml:Pakistan-Sri Lanka-2013-12-25.RData
+657645.yaml:Pakistan-Sri Lanka-2013-12-27.RData
+659549.yaml:Zimbabwe-Pakistan-2013-08-27.RData
+659551.yaml:Zimbabwe-Pakistan-2013-08-29.RData
+659553.yaml:Zimbabwe-Pakistan-2013-08-31.RData
+660825.yaml:Canada-Netherlands-2013-08-27.RData
+660827.yaml:Canada-Netherlands-2013-08-29.RData
+660837.yaml:Ireland-Scotland-2013-09-06.RData
+661685.yaml:New Zealand-West Indies-2013-12-26.RData
+661689.yaml:New Zealand-West Indies-2014-01-01.RData
+661691.yaml:New Zealand-West Indies-2014-01-04.RData
+661693.yaml:New Zealand-West Indies-2014-01-08.RData
+667641.yaml:New Zealand-India-2014-01-19.RData
+667643.yaml:New Zealand-India-2014-01-22.RData
+667645.yaml:New Zealand-India-2014-01-25.RData
+667647.yaml:New Zealand-India-2014-01-28.RData
+667649.yaml:New Zealand-India-2014-01-31.RData
+667723.yaml:England-India-2014-08-27.RData
+667725.yaml:England-India-2014-08-30.RData
+667727.yaml:England-India-2014-09-02.RData
+667729.yaml:England-India-2014-09-05.RData
+667889.yaml:England-Sri Lanka-2014-05-22.RData
+667891.yaml:England-Sri Lanka-2014-05-25.RData
+667893.yaml:England-Sri Lanka-2014-05-28.RData
+667895.yaml:England-Sri Lanka-2014-05-31.RData
+667897.yaml:England-Sri Lanka-2014-06-03.RData
+668953.yaml:Bangladesh-New Zealand-2013-10-29.RData
+668955.yaml:Bangladesh-New Zealand-2013-10-31.RData
+668957.yaml:Bangladesh-New Zealand-2013-11-03.RData
+668961.yaml:Sri Lanka-New Zealand-2013-11-10.RData
+668963.yaml:Sri Lanka-New Zealand-2013-11-12.RData
+668965.yaml:Sri Lanka-New Zealand-2013-11-16.RData
+676529.yaml:India-West Indies-2013-11-21.RData
+676531.yaml:India-West Indies-2013-11-24.RData
+676533.yaml:India-West Indies-2013-11-27.RData
+684679.yaml:Scotland-England-2014-05-09.RData
+685731.yaml:South Africa-Pakistan-2013-11-24.RData
+685733.yaml:South Africa-Pakistan-2013-11-27.RData
+685735.yaml:South Africa-Pakistan-2013-11-30.RData
+690355.yaml:Bangladesh-Sri Lanka-2014-02-17.RData
+690357.yaml:Bangladesh-Sri Lanka-2014-02-20.RData
+690359.yaml:Bangladesh-Sri Lanka-2014-02-22.RData
+696731.yaml:Canada-Scotland-2014-01-23.RData
+696733.yaml:Kenya-Netherlands-2014-01-23.RData
+696747.yaml:Canada-Netherlands-2014-01-28.RData
+696759.yaml:Kenya-Scotland-2014-01-30.RData
+702139.yaml:West Indies-Ireland-2014-02-23.RData
+706767.yaml:Ireland-Sri Lanka-2014-05-06.RData
+710291.yaml:Pakistan-Sri Lanka-2014-02-25.RData
+710293.yaml:Bangladesh-India-2014-02-26.RData
+710295.yaml:Afghanistan-Pakistan-2014-02-27.RData
+710297.yaml:India-Sri Lanka-2014-02-28.RData
+710299.yaml:Bangladesh-Afghanistan-2014-03-01.RData
+710301.yaml:India-Pakistan-2014-03-02.RData
+710303.yaml:Afghanistan-Sri Lanka-2014-03-03.RData
+710305.yaml:Bangladesh-Pakistan-2014-03-04.RData
+710307.yaml:Afghanistan-India-2014-03-05.RData
+710309.yaml:Bangladesh-Sri Lanka-2014-03-06.RData
+710311.yaml:Pakistan-Sri Lanka-2014-03-08.RData
+722339.yaml:South Africa-West Indies-2015-01-16.RData
+722341.yaml:South Africa-West Indies-2015-01-18.RData
+722343.yaml:South Africa-West Indies-2015-01-21.RData
+722345.yaml:South Africa-West Indies-2015-01-25.RData
+722347.yaml:South Africa-West Indies-2015-01-28.RData
+727919.yaml:Australia-Pakistan-2014-10-07.RData
+727921.yaml:Australia-Pakistan-2014-10-10.RData
+727923.yaml:Australia-Pakistan-2014-10-12.RData
+727935.yaml:Ireland-Scotland-2014-09-08.RData
+727937.yaml:Ireland-Scotland-2014-09-10.RData
+727939.yaml:Ireland-Scotland-2014-09-12.RData
+730083.yaml:Sri Lanka-South Africa-2014-07-06.RData
+730085.yaml:Sri Lanka-South Africa-2014-07-09.RData
+730087.yaml:Sri Lanka-South Africa-2014-07-12.RData
+730287.yaml:West Indies-Bangladesh-2014-08-20.RData
+730289.yaml:West Indies-Bangladesh-2014-08-22.RData
+730291.yaml:West Indies-Bangladesh-2014-08-25.RData
+736437.yaml:Zimbabwe-South Africa-2014-08-17.RData
+736439.yaml:Zimbabwe-South Africa-2014-08-19.RData
+736441.yaml:Zimbabwe-South Africa-2014-08-21.RData
+736443.yaml:Zimbabwe-Australia-2014-08-25.RData
+736445.yaml:Australia-South Africa-2014-08-27.RData
+736447.yaml:Zimbabwe-South Africa-2014-08-29.RData
+736449.yaml:Zimbabwe-Australia-2014-08-31.RData
+736451.yaml:Australia-South Africa-2014-09-02.RData
+736453.yaml:Zimbabwe-South Africa-2014-09-04.RData
+736455.yaml:Australia-South Africa-2014-09-06.RData
+736503.yaml:Afghanistan-United Arab Emirates-2014-05-02.RData
+736511.yaml:Hong Kong-United Arab Emirates-2014-05-04.RData
+742619.yaml:New Zealand-Pakistan-2014-12-08.RData
+742621.yaml:New Zealand-Pakistan-2014-12-12.RData
+742623.yaml:New Zealand-Pakistan-2014-12-14.RData
+742625.yaml:New Zealand-Pakistan-2014-12-17.RData
+742627.yaml:New Zealand-Pakistan-2014-12-19.RData
+743943.yaml:England-New Zealand-2015-06-09.RData
+743945.yaml:England-New Zealand-2015-06-12.RData
+743947.yaml:England-New Zealand-2015-06-14.RData
+743949.yaml:England-New Zealand-2015-06-17.RData
+743951.yaml:England-New Zealand-2015-06-20.RData
+743973.yaml:Ireland-Australia-2015-08-27.RData
+743977.yaml:England-Australia-2015-09-03.RData
+743979.yaml:England-Australia-2015-09-05.RData
+743981.yaml:England-Australia-2015-09-08.RData
+743983.yaml:England-Australia-2015-09-11.RData
+743985.yaml:England-Australia-2015-09-13.RData
+744679.yaml:Bangladesh-India-2014-06-15.RData
+744681.yaml:Bangladesh-India-2014-06-17.RData
+744683.yaml:Bangladesh-India-2014-06-19.RData
+745159.yaml:Sri Lanka-Pakistan-2014-08-23.RData
+745161.yaml:Sri Lanka-Pakistan-2014-08-26.RData
+745163.yaml:Sri Lanka-Pakistan-2014-08-30.RData
+749771.yaml:New Zealand-South Africa-2014-10-21.RData
+749773.yaml:New Zealand-South Africa-2014-10-24.RData
+749775.yaml:New Zealand-South Africa-2014-10-27.RData
+749781.yaml:New Zealand-Sri Lanka-2015-01-11.RData
+749783.yaml:New Zealand-Sri Lanka-2015-01-15.RData
+749785.yaml:New Zealand-Sri Lanka-2015-01-17.RData
+749787.yaml:New Zealand-Sri Lanka-2015-01-20.RData
+749789.yaml:New Zealand-Sri Lanka-2015-01-23.RData
+749793.yaml:New Zealand-Sri Lanka-2015-01-29.RData
+749795.yaml:New Zealand-Pakistan-2015-01-31.RData
+749797.yaml:New Zealand-Pakistan-2015-02-03.RData
+750665.yaml:Sri Lanka-England-2014-11-29.RData
+750667.yaml:Sri Lanka-England-2014-12-03.RData
+750669.yaml:Sri Lanka-England-2014-12-07.RData
+750671.yaml:Sri Lanka-England-2014-12-10.RData
+750673.yaml:Sri Lanka-England-2014-12-13.RData
+750675.yaml:Sri Lanka-England-2014-12-16.RData
+754723.yaml:Australia-South Africa-2014-11-14.RData
+754725.yaml:Australia-South Africa-2014-11-16.RData
+754727.yaml:Australia-South Africa-2014-11-19.RData
+754729.yaml:Australia-South Africa-2014-11-21.RData
+754731.yaml:Australia-South Africa-2014-11-23.RData
+754749.yaml:Australia-India-2015-01-18.RData
+754751.yaml:Australia-England-2015-01-16.RData
+754753.yaml:England-India-2015-01-20.RData
+754755.yaml:Australia-England-2015-01-23.RData
+754757.yaml:Australia-India-2015-01-26.RData
+754759.yaml:England-India-2015-01-30.RData
+754761.yaml:Australia-England-2015-02-01.RData
+756037.yaml:Zimbabwe-Afghanistan-2014-07-20.RData
+756039.yaml:Zimbabwe-Afghanistan-2014-07-22.RData
+756041.yaml:Zimbabwe-Afghanistan-2014-07-24.RData
+760787.yaml:Bangladesh-Zimbabwe-2014-11-21.RData
+760789.yaml:Bangladesh-Zimbabwe-2014-11-23.RData
+760791.yaml:Bangladesh-Zimbabwe-2014-11-26.RData
+760793.yaml:Bangladesh-Zimbabwe-2014-11-28.RData
+760795.yaml:Bangladesh-Zimbabwe-2014-12-01.RData
+760889.yaml:Ireland-England-2015-05-08.RData
+770123.yaml:India-West Indies-2014-10-11.RData
+770127.yaml:India-West Indies-2014-10-17.RData
+792289.yaml:India-Sri Lanka-2014-11-02.RData
+792291.yaml:India-Sri Lanka-2014-11-06.RData
+792293.yaml:India-Sri Lanka-2014-11-09.RData
+792295.yaml:India-Sri Lanka-2014-11-13.RData
+792297.yaml:India-Sri Lanka-2014-11-16.RData
+800469.yaml:South Africa-England-2016-02-03.RData
+800471.yaml:South Africa-England-2016-02-06.RData
+800473.yaml:South Africa-England-2016-02-09.RData
+800475.yaml:South Africa-England-2016-02-12.RData
+803795.yaml:United Arab Emirates-Afghanistan-2014-11-28.RData
+803797.yaml:United Arab Emirates-Afghanistan-2014-11-30.RData
+810829.yaml:Ireland-Scotland-2015-01-12.RData
+810833.yaml:Afghanistan-Ireland-2015-01-17.RData
+812623.yaml:Afghanistan-Scotland-2015-01-08.RData
+812645.yaml:Afghanistan-Scotland-2015-01-14.RData
+817207.yaml:Bangladesh-South Africa-2015-07-10.RData
+817209.yaml:Bangladesh-South Africa-2015-07-12.RData
+817211.yaml:Bangladesh-South Africa-2015-07-15.RData
+848843.yaml:South Africa-New Zealand-2015-08-19.RData
+848845.yaml:South Africa-New Zealand-2015-08-23.RData
+848847.yaml:South Africa-New Zealand-2015-08-26.RData
+858485.yaml:Bangladesh-Pakistan-2015-04-17.RData
+858487.yaml:Bangladesh-Pakistan-2015-04-19.RData
+858489.yaml:Bangladesh-Pakistan-2015-04-22.RData
+860269.yaml:Sri Lanka-Pakistan-2015-07-11.RData
+860271.yaml:Sri Lanka-Pakistan-2015-07-15.RData
+860273.yaml:Sri Lanka-Pakistan-2015-07-19.RData
+860275.yaml:Sri Lanka-Pakistan-2015-07-22.RData
+860277.yaml:Sri Lanka-Pakistan-2015-07-26.RData
+868727.yaml:Pakistan-Zimbabwe-2015-05-26.RData
+868729.yaml:Pakistan-Zimbabwe-2015-05-29.RData
+868731.yaml:Pakistan-Zimbabwe-2015-05-31.RData
+870731.yaml:Bangladesh-India-2015-06-18.RData
+870733.yaml:Bangladesh-India-2015-06-21.RData
+870735.yaml:Bangladesh-India-2015-06-24.RData
+885959.yaml:Zimbabwe-India-2015-07-10.RData
+885965.yaml:Zimbabwe-India-2015-07-12.RData
+885967.yaml:Zimbabwe-India-2015-07-14.RData
+894287.yaml:Zimbabwe-New Zealand-2015-08-02.RData
+894289.yaml:Zimbabwe-New Zealand-2015-08-04.RData
+894291.yaml:Zimbabwe-New Zealand-2015-08-07.RData
+895807.yaml:Australia-India-2016-01-12.RData
+895809.yaml:Australia-India-2016-01-15.RData
+895811.yaml:Australia-India-2016-01-17.RData
+895813.yaml:Australia-India-2016-01-20.RData
+895815.yaml:Australia-India-2016-01-23.RData
+902641.yaml:England-Pakistan-2015-11-11.RData
+902643.yaml:England-Pakistan-2015-11-13.RData
+902645.yaml:England-Pakistan-2015-11-17.RData
+902647.yaml:England-Pakistan-2015-11-20.RData
+903593.yaml:India-South Africa-2015-10-11.RData
+903597.yaml:India-South Africa-2015-10-18.RData
+903599.yaml:India-South Africa-2015-10-22.RData
+903601.yaml:India-South Africa-2015-10-25.RData
+911049.yaml:United Arab Emirates-Hong Kong-2015-11-16.RData
+914207.yaml:New Zealand-Sri Lanka-2015-12-26.RData
+914211.yaml:New Zealand-Sri Lanka-2015-12-31.RData
+914213.yaml:New Zealand-Sri Lanka-2016-01-02.RData
+914215.yaml:New Zealand-Sri Lanka-2016-01-05.RData
+914227.yaml:New Zealand-Pakistan-2016-01-25.RData
+914231.yaml:New Zealand-Australia-2016-02-03.RData
+914233.yaml:New Zealand-Australia-2016-02-06.RData
+914235.yaml:New Zealand-Australia-2016-02-08.RData
+914265.yaml:New Zealand-Pakistan-2016-01-31.RData
+915777.yaml:Sri Lanka-West Indies-2015-11-01.RData
+915781.yaml:Sri Lanka-West Indies-2015-11-07.RData
+919607.yaml:Zimbabwe-Pakistan-2015-10-01.RData
+919609.yaml:Zimbabwe-Pakistan-2015-10-03.RData
+919611.yaml:Zimbabwe-Pakistan-2015-10-05.RData
+919613.yaml:Zimbabwe-Ireland-2015-10-09.RData
+919615.yaml:Zimbabwe-Ireland-2015-10-11.RData
+919617.yaml:Zimbabwe-Ireland-2015-10-13.RData
+924627.yaml:Zimbabwe-Afghanistan-2015-10-16.RData
+924629.yaml:Zimbabwe-Afghanistan-2015-10-18.RData
+924633.yaml:Zimbabwe-Afghanistan-2015-10-22.RData
+931390.yaml:Bangladesh-Zimbabwe-2015-11-07.RData
+931392.yaml:Bangladesh-Zimbabwe-2015-11-09.RData
+931394.yaml:Bangladesh-Zimbabwe-2015-11-11.RData
+953335.yaml:Afghanistan-Zimbabwe-2015-12-25.RData
+953337.yaml:Afghanistan-Zimbabwe-2015-12-29.RData
+953339.yaml:Afghanistan-Zimbabwe-2016-01-02.RData
+953341.yaml:Afghanistan-Zimbabwe-2016-01-04.RData
+953343.yaml:Afghanistan-Zimbabwe-2016-01-06.RData
