@@ -1,0 +1,518 @@
+335982.yaml:Royal Challengers Bangalore-Kolkata Knight Riders-2008-04-18.RData
+335982.yaml:Royal Challengers Bangalore-Kolkata Knight Riders-2008-04-18.RData
+335983.yaml:Kings XI Punjab-Chennai Super Kings-2008-04-19.RData
+335984.yaml:Delhi Daredevils-Rajasthan Royals-2008-04-19.RData
+335985.yaml:Mumbai Indians-Royal Challengers Bangalore-2008-04-20.RData
+335986.yaml:Kolkata Knight Riders-Deccan Chargers-2008-04-20.RData
+335987.yaml:Rajasthan Royals-Kings XI Punjab-2008-04-21.RData
+335988.yaml:Deccan Chargers-Delhi Daredevils-2008-04-22.RData
+335989.yaml:Chennai Super Kings-Mumbai Indians-2008-04-23.RData
+335990.yaml:Deccan Chargers-Rajasthan Royals-2008-04-24.RData
+335991.yaml:Kings XI Punjab-Mumbai Indians-2008-04-25.RData
+335992.yaml:Royal Challengers Bangalore-Rajasthan Royals-2008-04-26.RData
+335993.yaml:Chennai Super Kings-Kolkata Knight Riders-2008-04-26.RData
+335994.yaml:Mumbai Indians-Deccan Chargers-2008-04-27.RData
+335995.yaml:Kings XI Punjab-Delhi Daredevils-2008-04-27.RData
+335996.yaml:Kings XI Punjab-Delhi Daredevils-2008-04-27.RData
+335997.yaml:Kolkata Knight Riders-Mumbai Indians-2008-04-29.RData
+335998.yaml:Delhi Daredevils-Royal Challengers Bangalore-2008-04-30.RData
+335999.yaml:Deccan Chargers-Kings XI Punjab-2008-05-01.RData
+336000.yaml:Rajasthan Royals-Kolkata Knight Riders-2008-05-01.RData
+336001.yaml:Chennai Super Kings-Delhi Daredevils-2008-05-02.RData
+336002.yaml:Deccan Chargers-Royal Challengers Bangalore-2008-05-25.RData
+336003.yaml:Kings XI Punjab-Kolkata Knight Riders-2008-05-03.RData
+336004.yaml:Mumbai Indians-Delhi Daredevils-2008-05-04.RData
+336005.yaml:Rajasthan Royals-Chennai Super Kings-2008-05-04.RData
+336006.yaml:Royal Challengers Bangalore-Kings XI Punjab-2008-05-05.RData
+336007.yaml:Chennai Super Kings-Deccan Chargers-2008-05-06.RData
+336008.yaml:Mumbai Indians-Rajasthan Royals-2008-05-07.RData
+336009.yaml:Delhi Daredevils-Chennai Super Kings-2008-05-08.RData
+336010.yaml:Kolkata Knight Riders-Royal Challengers Bangalore-2008-05-08.RData
+336011.yaml:Rajasthan Royals-Deccan Chargers-2008-05-09.RData
+336012.yaml:Royal Challengers Bangalore-Mumbai Indians-2008-05-28.RData
+336013.yaml:Chennai Super Kings-Kings XI Punjab-2008-05-10.RData
+336014.yaml:Deccan Chargers-Kolkata Knight Riders-2008-05-11.RData
+336015.yaml:Rajasthan Royals-Delhi Daredevils-2008-05-11.RData
+336016.yaml:Kings XI Punjab-Royal Challengers Bangalore-2008-05-12.RData
+336017.yaml:Kolkata Knight Riders-Delhi Daredevils-2008-05-13.RData
+336018.yaml:Mumbai Indians-Chennai Super Kings-2008-05-14.RData
+336019.yaml:Kings XI Punjab-Rajasthan Royals-2008-05-28.RData
+336020.yaml:Delhi Daredevils-Deccan Chargers-2008-05-15.RData
+336021.yaml:Mumbai Indians-Kolkata Knight Riders-2008-05-16.RData
+336022.yaml:Delhi Daredevils-Kings XI Punjab-2008-05-17.RData
+336023.yaml:Rajasthan Royals-Royal Challengers Bangalore-2008-05-17.RData
+336024.yaml:Deccan Chargers-Mumbai Indians-2008-05-18.RData
+336025.yaml:Kolkata Knight Riders-Chennai Super Kings-2008-05-18.RData
+336026.yaml:Kolkata Knight Riders-Chennai Super Kings-2008-05-18.RData
+336027.yaml:Kolkata Knight Riders-Rajasthan Royals-2008-05-20.RData
+336028.yaml:Kolkata Knight Riders-Rajasthan Royals-2008-05-20.RData
+336029.yaml:Chennai Super Kings-Royal Challengers Bangalore-2008-05-21.RData
+336031.yaml:Kings XI Punjab-Deccan Chargers-2008-05-23.RData
+336032.yaml:Delhi Daredevils-Mumbai Indians-2008-05-24.RData
+336033.yaml:Chennai Super Kings-Rajasthan Royals-2008-05-24.RData
+336034.yaml:Royal Challengers Bangalore-Deccan Chargers-2008-05-03.RData
+336035.yaml:Kolkata Knight Riders-Kings XI Punjab-2008-05-25.RData
+336036.yaml:Rajasthan Royals-Mumbai Indians-2008-05-26.RData
+336037.yaml:Deccan Chargers-Chennai Super Kings-2008-05-27.RData
+336038.yaml:Delhi Daredevils-Rajasthan Royals-2008-05-30.RData
+336039.yaml:Chennai Super Kings-Kings XI Punjab-2008-05-31.RData
+336040.yaml:Chennai Super Kings-Rajasthan Royals-2008-06-01.RData
+392181.yaml:Chennai Super Kings-Mumbai Indians-2009-04-18.RData
+392182.yaml:Royal Challengers Bangalore-Rajasthan Royals-2009-04-18.RData
+392183.yaml:Delhi Daredevils-Kings XI Punjab-2009-04-19.RData
+392184.yaml:Deccan Chargers-Kolkata Knight Riders-2009-04-19.RData
+392185.yaml:Royal Challengers Bangalore-Chennai Super Kings-2009-04-20.RData
+392186.yaml:Kings XI Punjab-Kolkata Knight Riders-2009-04-21.RData
+392188.yaml:Royal Challengers Bangalore-Deccan Chargers-2009-04-22.RData
+392189.yaml:Chennai Super Kings-Delhi Daredevils-2009-04-23.RData
+392190.yaml:Kolkata Knight Riders-Rajasthan Royals-2009-04-23.RData
+392191.yaml:Royal Challengers Bangalore-Kings XI Punjab-2009-04-24.RData
+392192.yaml:Deccan Chargers-Mumbai Indians-2009-04-25.RData
+392194.yaml:Royal Challengers Bangalore-Delhi Daredevils-2009-04-26.RData
+392195.yaml:Kings XI Punjab-Rajasthan Royals-2009-04-26.RData
+392196.yaml:Chennai Super Kings-Deccan Chargers-2009-04-27.RData
+392197.yaml:Kolkata Knight Riders-Mumbai Indians-2009-04-27.RData
+392198.yaml:Delhi Daredevils-Rajasthan Royals-2009-04-28.RData
+392199.yaml:Royal Challengers Bangalore-Kolkata Knight Riders-2009-04-29.RData
+392200.yaml:Kings XI Punjab-Mumbai Indians-2009-04-29.RData
+392201.yaml:Deccan Chargers-Delhi Daredevils-2009-04-30.RData
+392202.yaml:Chennai Super Kings-Rajasthan Royals-2009-04-30.RData
+392203.yaml:Kolkata Knight Riders-Mumbai Indians-2009-05-01.RData
+392204.yaml:Royal Challengers Bangalore-Kings XI Punjab-2009-05-01.RData
+392205.yaml:Deccan Chargers-Rajasthan Royals-2009-05-02.RData
+392206.yaml:Chennai Super Kings-Delhi Daredevils-2009-05-02.RData
+392207.yaml:Kings XI Punjab-Kolkata Knight Riders-2009-05-03.RData
+392208.yaml:Royal Challengers Bangalore-Mumbai Indians-2009-05-03.RData
+392209.yaml:Chennai Super Kings-Deccan Chargers-2009-05-04.RData
+392210.yaml:Kings XI Punjab-Rajasthan Royals-2009-05-05.RData
+392211.yaml:Delhi Daredevils-Kolkata Knight Riders-2009-05-05.RData
+392212.yaml:Deccan Chargers-Mumbai Indians-2009-05-06.RData
+392213.yaml:Royal Challengers Bangalore-Rajasthan Royals-2009-05-07.RData
+392214.yaml:Chennai Super Kings-Kings XI Punjab-2009-05-07.RData
+392215.yaml:Delhi Daredevils-Mumbai Indians-2009-05-08.RData
+392216.yaml:Deccan Chargers-Kings XI Punjab-2009-05-09.RData
+392217.yaml:Chennai Super Kings-Rajasthan Royals-2009-05-09.RData
+392218.yaml:Royal Challengers Bangalore-Mumbai Indians-2009-05-10.RData
+392219.yaml:Delhi Daredevils-Kolkata Knight Riders-2009-05-10.RData
+392220.yaml:Deccan Chargers-Rajasthan Royals-2009-05-11.RData
+392221.yaml:Royal Challengers Bangalore-Kolkata Knight Riders-2009-05-12.RData
+392222.yaml:Kings XI Punjab-Mumbai Indians-2009-05-12.RData
+392223.yaml:Deccan Chargers-Delhi Daredevils-2009-05-13.RData
+392224.yaml:Royal Challengers Bangalore-Chennai Super Kings-2009-05-14.RData
+392225.yaml:Mumbai Indians-Rajasthan Royals-2009-05-14.RData
+392226.yaml:Delhi Daredevils-Kings XI Punjab-2009-05-15.RData
+392227.yaml:Chennai Super Kings-Mumbai Indians-2009-05-16.RData
+392228.yaml:Deccan Chargers-Kolkata Knight Riders-2009-05-16.RData
+392229.yaml:Deccan Chargers-Kings XI Punjab-2009-05-17.RData
+392230.yaml:Delhi Daredevils-Rajasthan Royals-2009-05-17.RData
+392231.yaml:Chennai Super Kings-Kolkata Knight Riders-2009-05-18.RData
+392232.yaml:Royal Challengers Bangalore-Delhi Daredevils-2009-05-19.RData
+392233.yaml:Kolkata Knight Riders-Rajasthan Royals-2009-05-20.RData
+392234.yaml:Chennai Super Kings-Kings XI Punjab-2009-05-20.RData
+392235.yaml:Delhi Daredevils-Mumbai Indians-2009-05-21.RData
+392236.yaml:Royal Challengers Bangalore-Deccan Chargers-2009-05-21.RData
+392237.yaml:Delhi Daredevils-Deccan Chargers-2009-05-22.RData
+392238.yaml:Royal Challengers Bangalore-Chennai Super Kings-2009-05-23.RData
+392239.yaml:Royal Challengers Bangalore-Deccan Chargers-2009-05-24.RData
+419106.yaml:Deccan Chargers-Kolkata Knight Riders-2010-03-12.RData
+419107.yaml:Mumbai Indians-Rajasthan Royals-2010-03-13.RData
+419108.yaml:Kings XI Punjab-Delhi Daredevils-2010-03-13.RData
+419109.yaml:Kolkata Knight Riders-Royal Challengers Bangalore-2010-03-14.RData
+419110.yaml:Chennai Super Kings-Deccan Chargers-2010-03-14.RData
+419111.yaml:Rajasthan Royals-Delhi Daredevils-2010-03-15.RData
+419112.yaml:Royal Challengers Bangalore-Kings XI Punjab-2010-03-16.RData
+419113.yaml:Kolkata Knight Riders-Chennai Super Kings-2010-03-16.RData
+419114.yaml:Delhi Daredevils-Mumbai Indians-2010-03-17.RData
+419115.yaml:Royal Challengers Bangalore-Rajasthan Royals-2010-03-18.RData
+419116.yaml:Delhi Daredevils-Chennai Super Kings-2010-03-19.RData
+419117.yaml:Deccan Chargers-Kings XI Punjab-2010-03-19.RData
+419118.yaml:Rajasthan Royals-Kolkata Knight Riders-2010-03-20.RData
+419119.yaml:Mumbai Indians-Royal Challengers Bangalore-2010-03-20.RData
+419120.yaml:Deccan Chargers-Delhi Daredevils-2010-03-21.RData
+419121.yaml:Chennai Super Kings-Kings XI Punjab-2010-03-21.RData
+419122.yaml:Mumbai Indians-Kolkata Knight Riders-2010-03-22.RData
+419123.yaml:Royal Challengers Bangalore-Chennai Super Kings-2010-03-23.RData
+419124.yaml:Kings XI Punjab-Rajasthan Royals-2010-03-24.RData
+419125.yaml:Mumbai Indians-Chennai Super Kings-2010-03-25.RData
+419126.yaml:Rajasthan Royals-Deccan Chargers-2010-03-26.RData
+419127.yaml:Kings XI Punjab-Kolkata Knight Riders-2010-03-27.RData
+419128.yaml:Royal Challengers Bangalore-Delhi Daredevils-2010-03-25.RData
+419129.yaml:Rajasthan Royals-Chennai Super Kings-2010-03-28.RData
+419130.yaml:Deccan Chargers-Mumbai Indians-2010-03-28.RData
+419131.yaml:Delhi Daredevils-Kolkata Knight Riders-2010-03-29.RData
+419132.yaml:Mumbai Indians-Kings XI Punjab-2010-03-30.RData
+419133.yaml:Chennai Super Kings-Royal Challengers Bangalore-2010-03-31.RData
+419134.yaml:Delhi Daredevils-Rajasthan Royals-2010-03-31.RData
+419135.yaml:Kolkata Knight Riders-Deccan Chargers-2010-04-01.RData
+419136.yaml:Kings XI Punjab-Royal Challengers Bangalore-2010-04-02.RData
+419137.yaml:Chennai Super Kings-Rajasthan Royals-2010-04-03.RData
+419138.yaml:Mumbai Indians-Deccan Chargers-2010-04-03.RData
+419139.yaml:Kolkata Knight Riders-Kings XI Punjab-2010-04-04.RData
+419140.yaml:Delhi Daredevils-Royal Challengers Bangalore-2010-04-04.RData
+419141.yaml:Deccan Chargers-Rajasthan Royals-2010-04-05.RData
+419142.yaml:Chennai Super Kings-Mumbai Indians-2010-04-06.RData
+419143.yaml:Chennai Super Kings-Mumbai Indians-2010-04-06.RData
+419144.yaml:Kolkata Knight Riders-Delhi Daredevils-2010-04-07.RData
+419145.yaml:Royal Challengers Bangalore-Deccan Chargers-2010-04-08.RData
+419146.yaml:Kings XI Punjab-Mumbai Indians-2010-04-09.RData
+419147.yaml:Deccan Chargers-Chennai Super Kings-2010-04-10.RData
+419148.yaml:Royal Challengers Bangalore-Kolkata Knight Riders-2010-04-10.RData
+419149.yaml:Delhi Daredevils-Kings XI Punjab-2010-04-11.RData
+419150.yaml:Rajasthan Royals-Mumbai Indians-2010-04-11.RData
+419151.yaml:Deccan Chargers-Royal Challengers Bangalore-2010-04-12.RData
+419152.yaml:Mumbai Indians-Delhi Daredevils-2010-04-13.RData
+419153.yaml:Chennai Super Kings-Kolkata Knight Riders-2010-04-13.RData
+419154.yaml:Rajasthan Royals-Royal Challengers Bangalore-2010-04-14.RData
+419155.yaml:Chennai Super Kings-Delhi Daredevils-2010-04-15.RData
+419156.yaml:Kings XI Punjab-Deccan Chargers-2010-04-16.RData
+419157.yaml:Royal Challengers Bangalore-Mumbai Indians-2010-04-17.RData
+419158.yaml:Kolkata Knight Riders-Rajasthan Royals-2010-04-17.RData
+419159.yaml:Kings XI Punjab-Chennai Super Kings-2010-04-18.RData
+419160.yaml:Delhi Daredevils-Deccan Chargers-2010-04-18.RData
+419161.yaml:Kolkata Knight Riders-Mumbai Indians-2010-04-19.RData
+419162.yaml:Royal Challengers Bangalore-Mumbai Indians-2010-04-21.RData
+419163.yaml:Chennai Super Kings-Deccan Chargers-2010-04-22.RData
+419164.yaml:Royal Challengers Bangalore-Deccan Chargers-2010-04-24.RData
+419165.yaml:Royal Challengers Bangalore-Deccan Chargers-2010-04-24.RData
+501198.yaml:Chennai Super Kings-Kolkata Knight Riders-2011-04-08.RData
+501199.yaml:Deccan Chargers-Rajasthan Royals-2011-04-09.RData
+501200.yaml:Kochi Tuskers Kerala-Royal Challengers Bangalore-2011-04-09.RData
+501201.yaml:Delhi Daredevils-Mumbai Indians-2011-04-10.RData
+501202.yaml:Pune Warriors-Kings XI Punjab-2011-04-10.RData
+501203.yaml:Kolkata Knight Riders-Deccan Chargers-2011-04-11.RData
+501204.yaml:Rajasthan Royals-Delhi Daredevils-2011-04-12.RData
+501205.yaml:Royal Challengers Bangalore-Mumbai Indians-2011-04-12.RData
+501206.yaml:Kings XI Punjab-Chennai Super Kings-2011-04-13.RData
+501207.yaml:Pune Warriors-Kochi Tuskers Kerala-2011-04-13.RData
+501208.yaml:Deccan Chargers-Royal Challengers Bangalore-2011-04-14.RData
+501209.yaml:Rajasthan Royals-Kolkata Knight Riders-2011-04-15.RData
+501210.yaml:Mumbai Indians-Kochi Tuskers Kerala-2011-04-15.RData
+501211.yaml:Chennai Super Kings-Royal Challengers Bangalore-2011-04-16.RData
+501212.yaml:Deccan Chargers-Kings XI Punjab-2011-04-16.RData
+501213.yaml:Pune Warriors-Delhi Daredevils-2011-04-17.RData
+501214.yaml:Kolkata Knight Riders-Rajasthan Royals-2011-04-17.RData
+501215.yaml:Kochi Tuskers Kerala-Chennai Super Kings-2011-04-18.RData
+501216.yaml:Delhi Daredevils-Deccan Chargers-2011-04-19.RData
+501218.yaml:Mumbai Indians-Pune Warriors-2011-04-20.RData
+501219.yaml:Kolkata Knight Riders-Kochi Tuskers Kerala-2011-04-20.RData
+501220.yaml:Kings XI Punjab-Rajasthan Royals-2011-04-21.RData
+501221.yaml:Mumbai Indians-Chennai Super Kings-2011-04-22.RData
+501222.yaml:Kolkata Knight Riders-Royal Challengers Bangalore-2011-04-22.RData
+501223.yaml:Delhi Daredevils-Kings XI Punjab-2011-04-23.RData
+501224.yaml:Deccan Chargers-Mumbai Indians-2011-04-24.RData
+501225.yaml:Rajasthan Royals-Kochi Tuskers Kerala-2011-04-24.RData
+501226.yaml:Chennai Super Kings-Pune Warriors-2011-04-25.RData
+501227.yaml:Delhi Daredevils-Royal Challengers Bangalore-2011-04-26.RData
+501228.yaml:Pune Warriors-Chennai Super Kings-2011-04-27.RData
+501229.yaml:Kochi Tuskers Kerala-Deccan Chargers-2011-04-27.RData
+501230.yaml:Delhi Daredevils-Kolkata Knight Riders-2011-04-28.RData
+501231.yaml:Rajasthan Royals-Mumbai Indians-2011-04-29.RData
+501232.yaml:Royal Challengers Bangalore-Pune Warriors-2011-04-29.RData
+501233.yaml:Kochi Tuskers Kerala-Delhi Daredevils-2011-04-30.RData
+501234.yaml:Kolkata Knight Riders-Kings XI Punjab-2011-04-30.RData
+501235.yaml:Rajasthan Royals-Pune Warriors-2011-05-01.RData
+501236.yaml:Chennai Super Kings-Deccan Chargers-2011-05-01.RData
+501237.yaml:Mumbai Indians-Kings XI Punjab-2011-05-02.RData
+501238.yaml:Delhi Daredevils-Kochi Tuskers Kerala-2011-05-02.RData
+501239.yaml:Deccan Chargers-Kolkata Knight Riders-2011-05-03.RData
+501240.yaml:Chennai Super Kings-Rajasthan Royals-2011-05-04.RData
+501241.yaml:Pune Warriors-Mumbai Indians-2011-05-04.RData
+501242.yaml:Kochi Tuskers Kerala-Kolkata Knight Riders-2011-05-05.RData
+501243.yaml:Deccan Chargers-Delhi Daredevils-2011-05-05.RData
+501244.yaml:Royal Challengers Bangalore-Kings XI Punjab-2011-05-06.RData
+501245.yaml:Kolkata Knight Riders-Chennai Super Kings-2011-05-07.RData
+501246.yaml:Mumbai Indians-Delhi Daredevils-2011-05-07.RData
+501247.yaml:Royal Challengers Bangalore-Kochi Tuskers Kerala-2011-05-08.RData
+501248.yaml:Kings XI Punjab-Pune Warriors-2011-05-08.RData
+501249.yaml:Rajasthan Royals-Chennai Super Kings-2011-05-09.RData
+501250.yaml:Deccan Chargers-Pune Warriors-2011-05-10.RData
+501251.yaml:Kings XI Punjab-Mumbai Indians-2011-05-10.RData
+501252.yaml:Rajasthan Royals-Royal Challengers Bangalore-2011-05-11.RData
+501253.yaml:Chennai Super Kings-Delhi Daredevils-2011-05-12.RData
+501254.yaml:Kochi Tuskers Kerala-Kings XI Punjab-2011-05-13.RData
+501255.yaml:Royal Challengers Bangalore-Kolkata Knight Riders-2011-05-14.RData
+501256.yaml:Mumbai Indians-Deccan Chargers-2011-05-14.RData
+501257.yaml:Kings XI Punjab-Delhi Daredevils-2011-05-15.RData
+501258.yaml:Kochi Tuskers Kerala-Rajasthan Royals-2011-05-15.RData
+501259.yaml:Pune Warriors-Deccan Chargers-2011-05-16.RData
+501260.yaml:Kings XI Punjab-Royal Challengers Bangalore-2011-05-17.RData
+501261.yaml:Chennai Super Kings-Kochi Tuskers Kerala-2011-05-18.RData
+501262.yaml:Pune Warriors-Kolkata Knight Riders-2011-05-19.RData
+501263.yaml:Mumbai Indians-Rajasthan Royals-2011-05-20.RData
+501264.yaml:Kings XI Punjab-Deccan Chargers-2011-05-21.RData
+501265.yaml:Delhi Daredevils-Pune Warriors-2011-05-21.RData
+501266.yaml:Royal Challengers Bangalore-Chennai Super Kings-2011-05-22.RData
+501267.yaml:Kolkata Knight Riders-Mumbai Indians-2011-05-22.RData
+501268.yaml:Royal Challengers Bangalore-Chennai Super Kings-2011-05-24.RData
+501269.yaml:Mumbai Indians-Kolkata Knight Riders-2011-05-25.RData
+501270.yaml:Royal Challengers Bangalore-Mumbai Indians-2011-05-27.RData
+501271.yaml:Chennai Super Kings-Royal Challengers Bangalore-2011-05-28.RData
+548306.yaml:Chennai Super Kings-Mumbai Indians-2012-04-04.RData
+548307.yaml:Kolkata Knight Riders-Delhi Daredevils-2012-04-05.RData
+548308.yaml:Mumbai Indians-Pune Warriors-2012-04-06.RData
+548309.yaml:Rajasthan Royals-Kings XI Punjab-2012-04-06.RData
+548310.yaml:Royal Challengers Bangalore-Delhi Daredevils-2012-04-07.RData
+548311.yaml:Deccan Chargers-Chennai Super Kings-2012-04-07.RData
+548312.yaml:Rajasthan Royals-Kolkata Knight Riders-2012-04-08.RData
+548313.yaml:Pune Warriors-Kings XI Punjab-2012-04-08.RData
+548314.yaml:Deccan Chargers-Mumbai Indians-2012-04-09.RData
+548315.yaml:Royal Challengers Bangalore-Kolkata Knight Riders-2012-04-10.RData
+548316.yaml:Delhi Daredevils-Chennai Super Kings-2012-04-10.RData
+548317.yaml:Mumbai Indians-Rajasthan Royals-2012-04-11.RData
+548318.yaml:Chennai Super Kings-Royal Challengers Bangalore-2012-04-12.RData
+548319.yaml:Kings XI Punjab-Pune Warriors-2012-04-12.RData
+548320.yaml:Kolkata Knight Riders-Rajasthan Royals-2012-04-13.RData
+548321.yaml:Delhi Daredevils-Deccan Chargers-2012-04-19.RData
+548322.yaml:Pune Warriors-Chennai Super Kings-2012-04-14.RData
+548323.yaml:Kolkata Knight Riders-Kings XI Punjab-2012-04-15.RData
+548324.yaml:Royal Challengers Bangalore-Rajasthan Royals-2012-04-15.RData
+548325.yaml:Mumbai Indians-Delhi Daredevils-2012-04-16.RData
+548326.yaml:Rajasthan Royals-Deccan Chargers-2012-04-17.RData
+548327.yaml:Royal Challengers Bangalore-Pune Warriors-2012-04-17.RData
+548328.yaml:Kings XI Punjab-Kolkata Knight Riders-2012-04-18.RData
+548329.yaml:Deccan Chargers-Delhi Daredevils-2012-05-10.RData
+548330.yaml:Chennai Super Kings-Pune Warriors-2012-04-19.RData
+548331.yaml:Kings XI Punjab-Royal Challengers Bangalore-2012-04-20.RData
+548332.yaml:Chennai Super Kings-Rajasthan Royals-2012-04-21.RData
+548333.yaml:Delhi Daredevils-Pune Warriors-2012-04-21.RData
+548334.yaml:Mumbai Indians-Kings XI Punjab-2012-04-22.RData
+548335.yaml:Deccan Chargers-Kolkata Knight Riders-2012-04-22.RData
+548336.yaml:Rajasthan Royals-Royal Challengers Bangalore-2012-04-23.RData
+548337.yaml:Pune Warriors-Delhi Daredevils-2012-04-24.RData
+548339.yaml:Kings XI Punjab-Mumbai Indians-2012-04-25.RData
+548341.yaml:Pune Warriors-Deccan Chargers-2012-04-26.RData
+548342.yaml:Delhi Daredevils-Mumbai Indians-2012-04-27.RData
+548343.yaml:Chennai Super Kings-Kings XI Punjab-2012-04-28.RData
+548344.yaml:Kolkata Knight Riders-Royal Challengers Bangalore-2012-04-28.RData
+548345.yaml:Delhi Daredevils-Rajasthan Royals-2012-04-29.RData
+548346.yaml:Mumbai Indians-Deccan Chargers-2012-04-29.RData
+548347.yaml:Chennai Super Kings-Kolkata Knight Riders-2012-04-30.RData
+548348.yaml:Deccan Chargers-Pune Warriors-2012-05-01.RData
+548349.yaml:Rajasthan Royals-Delhi Daredevils-2012-05-01.RData
+548350.yaml:Royal Challengers Bangalore-Kings XI Punjab-2012-05-02.RData
+548351.yaml:Pune Warriors-Mumbai Indians-2012-05-03.RData
+548352.yaml:Chennai Super Kings-Deccan Chargers-2012-05-04.RData
+548353.yaml:Kolkata Knight Riders-Pune Warriors-2012-05-05.RData
+548354.yaml:Kings XI Punjab-Rajasthan Royals-2012-05-05.RData
+548355.yaml:Mumbai Indians-Chennai Super Kings-2012-05-06.RData
+548356.yaml:Royal Challengers Bangalore-Deccan Chargers-2012-05-06.RData
+548357.yaml:Delhi Daredevils-Kolkata Knight Riders-2012-05-07.RData
+548358.yaml:Pune Warriors-Rajasthan Royals-2012-05-08.RData
+548359.yaml:Deccan Chargers-Kings XI Punjab-2012-05-08.RData
+548360.yaml:Mumbai Indians-Royal Challengers Bangalore-2012-05-09.RData
+548361.yaml:Rajasthan Royals-Chennai Super Kings-2012-05-10.RData
+548362.yaml:Pune Warriors-Royal Challengers Bangalore-2012-05-11.RData
+548363.yaml:Kolkata Knight Riders-Mumbai Indians-2012-05-12.RData
+548364.yaml:Chennai Super Kings-Delhi Daredevils-2012-05-12.RData
+548365.yaml:Rajasthan Royals-Pune Warriors-2012-05-13.RData
+548366.yaml:Kings XI Punjab-Deccan Chargers-2012-05-13.RData
+548367.yaml:Royal Challengers Bangalore-Mumbai Indians-2012-05-14.RData
+548368.yaml:Kolkata Knight Riders-Chennai Super Kings-2012-05-14.RData
+548369.yaml:Delhi Daredevils-Kings XI Punjab-2012-05-15.RData
+548370.yaml:Mumbai Indians-Kolkata Knight Riders-2012-05-16.RData
+548371.yaml:Kings XI Punjab-Chennai Super Kings-2012-05-17.RData
+548372.yaml:Delhi Daredevils-Royal Challengers Bangalore-2012-05-17.RData
+548373.yaml:Deccan Chargers-Rajasthan Royals-2012-05-18.RData
+548374.yaml:Kings XI Punjab-Delhi Daredevils-2012-05-19.RData
+548375.yaml:Pune Warriors-Kolkata Knight Riders-2012-05-19.RData
+548376.yaml:Deccan Chargers-Royal Challengers Bangalore-2012-05-20.RData
+548377.yaml:Rajasthan Royals-Mumbai Indians-2012-05-20.RData
+548378.yaml:Delhi Daredevils-Kolkata Knight Riders-2012-05-22.RData
+548379.yaml:Chennai Super Kings-Mumbai Indians-2012-05-23.RData
+548380.yaml:Delhi Daredevils-Chennai Super Kings-2012-05-25.RData
+548381.yaml:Kolkata Knight Riders-Chennai Super Kings-2012-05-27.RData
+597998.yaml:Kolkata Knight Riders-Delhi Daredevils-2013-04-03.RData
+597999.yaml:Royal Challengers Bangalore-Mumbai Indians-2013-04-04.RData
+598000.yaml:Sunrisers Hyderabad-Pune Warriors-2013-04-05.RData
+598001.yaml:Delhi Daredevils-Rajasthan Royals-2013-04-06.RData
+598002.yaml:Chennai Super Kings-Mumbai Indians-2013-04-06.RData
+598003.yaml:Pune Warriors-Kings XI Punjab-2013-04-07.RData
+598004.yaml:Sunrisers Hyderabad-Royal Challengers Bangalore-2013-04-07.RData
+598005.yaml:Rajasthan Royals-Kolkata Knight Riders-2013-04-08.RData
+598006.yaml:Mumbai Indians-Delhi Daredevils-2013-04-09.RData
+598007.yaml:Kings XI Punjab-Chennai Super Kings-2013-04-10.RData
+598008.yaml:Royal Challengers Bangalore-Kolkata Knight Riders-2013-04-11.RData
+598009.yaml:Pune Warriors-Rajasthan Royals-2013-04-11.RData
+598010.yaml:Delhi Daredevils-Sunrisers Hyderabad-2013-04-12.RData
+598011.yaml:Mumbai Indians-Pune Warriors-2013-04-13.RData
+598012.yaml:Chennai Super Kings-Royal Challengers Bangalore-2013-04-13.RData
+598013.yaml:Kolkata Knight Riders-Sunrisers Hyderabad-2013-04-14.RData
+598014.yaml:Rajasthan Royals-Kings XI Punjab-2013-04-14.RData
+598015.yaml:Chennai Super Kings-Pune Warriors-2013-04-15.RData
+598016.yaml:Kings XI Punjab-Kolkata Knight Riders-2013-04-16.RData
+598017.yaml:Royal Challengers Bangalore-Delhi Daredevils-2013-04-16.RData
+598018.yaml:Pune Warriors-Sunrisers Hyderabad-2013-04-17.RData
+598019.yaml:Rajasthan Royals-Mumbai Indians-2013-04-17.RData
+598020.yaml:Delhi Daredevils-Chennai Super Kings-2013-04-18.RData
+598021.yaml:Sunrisers Hyderabad-Kings XI Punjab-2013-04-19.RData
+598022.yaml:Kolkata Knight Riders-Chennai Super Kings-2013-04-20.RData
+598023.yaml:Royal Challengers Bangalore-Rajasthan Royals-2013-04-20.RData
+598024.yaml:Delhi Daredevils-Mumbai Indians-2013-04-21.RData
+598025.yaml:Kings XI Punjab-Pune Warriors-2013-04-21.RData
+598026.yaml:Chennai Super Kings-Rajasthan Royals-2013-04-22.RData
+598027.yaml:Royal Challengers Bangalore-Pune Warriors-2013-04-23.RData
+598028.yaml:Kings XI Punjab-Delhi Daredevils-2013-05-16.RData
+598029.yaml:Kolkata Knight Riders-Mumbai Indians-2013-04-24.RData
+598030.yaml:Chennai Super Kings-Sunrisers Hyderabad-2013-04-25.RData
+598031.yaml:Kolkata Knight Riders-Kings XI Punjab-2013-04-26.RData
+598032.yaml:Rajasthan Royals-Sunrisers Hyderabad-2013-04-27.RData
+598033.yaml:Mumbai Indians-Royal Challengers Bangalore-2013-04-27.RData
+598034.yaml:Chennai Super Kings-Kolkata Knight Riders-2013-04-28.RData
+598035.yaml:Delhi Daredevils-Pune Warriors-2013-04-28.RData
+598036.yaml:Rajasthan Royals-Royal Challengers Bangalore-2013-04-29.RData
+598037.yaml:Mumbai Indians-Kings XI Punjab-2013-04-29.RData
+598038.yaml:Pune Warriors-Chennai Super Kings-2013-04-30.RData
+598039.yaml:Sunrisers Hyderabad-Mumbai Indians-2013-05-01.RData
+598040.yaml:Delhi Daredevils-Kolkata Knight Riders-2013-05-01.RData
+598041.yaml:Chennai Super Kings-Kings XI Punjab-2013-05-02.RData
+598042.yaml:Pune Warriors-Royal Challengers Bangalore-2013-05-02.RData
+598043.yaml:Kolkata Knight Riders-Rajasthan Royals-2013-05-03.RData
+598044.yaml:Sunrisers Hyderabad-Delhi Daredevils-2013-05-04.RData
+598045.yaml:Royal Challengers Bangalore-Kings XI Punjab-2013-05-14.RData
+598046.yaml:Mumbai Indians-Chennai Super Kings-2013-05-05.RData
+598047.yaml:Rajasthan Royals-Pune Warriors-2013-05-05.RData
+598048.yaml:Royal Challengers Bangalore-Sunrisers Hyderabad-2013-04-09.RData
+598049.yaml:Rajasthan Royals-Delhi Daredevils-2013-05-07.RData
+598050.yaml:Mumbai Indians-Kolkata Knight Riders-2013-05-07.RData
+598051.yaml:Sunrisers Hyderabad-Chennai Super Kings-2013-05-08.RData
+598052.yaml:Kings XI Punjab-Rajasthan Royals-2013-05-09.RData
+598053.yaml:Pune Warriors-Kolkata Knight Riders-2013-05-09.RData
+598054.yaml:Delhi Daredevils-Royal Challengers Bangalore-2013-05-10.RData
+598055.yaml:Pune Warriors-Mumbai Indians-2013-05-11.RData
+598056.yaml:Kings XI Punjab-Sunrisers Hyderabad-2013-05-11.RData
+598057.yaml:Kolkata Knight Riders-Royal Challengers Bangalore-2013-05-12.RData
+598058.yaml:Rajasthan Royals-Chennai Super Kings-2013-05-12.RData
+598059.yaml:Delhi Daredevils-Kings XI Punjab-2013-04-23.RData
+598060.yaml:Mumbai Indians-Sunrisers Hyderabad-2013-05-13.RData
+598061.yaml:Mumbai Indians-Sunrisers Hyderabad-2013-05-13.RData
+598062.yaml:Chennai Super Kings-Delhi Daredevils-2013-05-14.RData
+598063.yaml:Chennai Super Kings-Delhi Daredevils-2013-05-14.RData
+598064.yaml:Kings XI Punjab-Royal Challengers Bangalore-2013-05-06.RData
+598065.yaml:Kings XI Punjab-Royal Challengers Bangalore-2013-05-06.RData
+598066.yaml:Kings XI Punjab-Mumbai Indians-2013-05-18.RData
+598067.yaml:Pune Warriors-Delhi Daredevils-2013-05-19.RData
+598068.yaml:Royal Challengers Bangalore-Chennai Super Kings-2013-05-18.RData
+598069.yaml:Sunrisers Hyderabad-Kolkata Knight Riders-2013-05-19.RData
+598070.yaml:Chennai Super Kings-Mumbai Indians-2013-05-21.RData
+598071.yaml:Rajasthan Royals-Sunrisers Hyderabad-2013-05-22.RData
+598072.yaml:Mumbai Indians-Rajasthan Royals-2013-05-24.RData
+598073.yaml:Chennai Super Kings-Mumbai Indians-2013-05-26.RData
+729279.yaml:Mumbai Indians-Kolkata Knight Riders-2014-04-16.RData
+729281.yaml:Delhi Daredevils-Royal Challengers Bangalore-2014-04-17.RData
+729283.yaml:Chennai Super Kings-Kings XI Punjab-2014-04-18.RData
+729285.yaml:Sunrisers Hyderabad-Rajasthan Royals-2014-04-18.RData
+729287.yaml:Royal Challengers Bangalore-Mumbai Indians-2014-04-19.RData
+729289.yaml:Kolkata Knight Riders-Delhi Daredevils-2014-04-19.RData
+729291.yaml:Rajasthan Royals-Kings XI Punjab-2014-04-20.RData
+729293.yaml:Chennai Super Kings-Delhi Daredevils-2014-04-21.RData
+729295.yaml:Kings XI Punjab-Sunrisers Hyderabad-2014-04-22.RData
+729297.yaml:Rajasthan Royals-Chennai Super Kings-2014-04-23.RData
+729299.yaml:Royal Challengers Bangalore-Kolkata Knight Riders-2014-04-24.RData
+729301.yaml:Sunrisers Hyderabad-Delhi Daredevils-2014-04-25.RData
+729303.yaml:Chennai Super Kings-Mumbai Indians-2014-04-25.RData
+729305.yaml:Rajasthan Royals-Royal Challengers Bangalore-2014-04-26.RData
+729307.yaml:Kolkata Knight Riders-Kings XI Punjab-2014-04-26.RData
+729309.yaml:Delhi Daredevils-Mumbai Indians-2014-04-27.RData
+729311.yaml:Sunrisers Hyderabad-Chennai Super Kings-2014-04-27.RData
+729313.yaml:Kings XI Punjab-Royal Challengers Bangalore-2014-04-28.RData
+729315.yaml:Kolkata Knight Riders-Rajasthan Royals-2014-04-29.RData
+729317.yaml:Mumbai Indians-Sunrisers Hyderabad-2014-04-30.RData
+733971.yaml:Chennai Super Kings-Kolkata Knight Riders-2014-05-02.RData
+733973.yaml:Mumbai Indians-Kings XI Punjab-2014-05-03.RData
+733975.yaml:Delhi Daredevils-Rajasthan Royals-2014-05-03.RData
+733977.yaml:Royal Challengers Bangalore-Sunrisers Hyderabad-2014-05-04.RData
+733979.yaml:Rajasthan Royals-Kolkata Knight Riders-2014-05-05.RData
+733981.yaml:Rajasthan Royals-Kolkata Knight Riders-2014-05-05.RData
+733983.yaml:Mumbai Indians-Royal Challengers Bangalore-2014-05-06.RData
+733985.yaml:Delhi Daredevils-Kolkata Knight Riders-2014-05-07.RData
+733987.yaml:Kings XI Punjab-Chennai Super Kings-2014-05-07.RData
+733989.yaml:Rajasthan Royals-Sunrisers Hyderabad-2014-05-08.RData
+733991.yaml:Royal Challengers Bangalore-Kings XI Punjab-2014-05-09.RData
+733993.yaml:Delhi Daredevils-Sunrisers Hyderabad-2014-05-10.RData
+733995.yaml:Mumbai Indians-Chennai Super Kings-2014-05-10.RData
+733997.yaml:Kings XI Punjab-Kolkata Knight Riders-2014-05-11.RData
+733999.yaml:Royal Challengers Bangalore-Rajasthan Royals-2014-05-11.RData
+734001.yaml:Sunrisers Hyderabad-Mumbai Indians-2014-05-12.RData
+734003.yaml:Chennai Super Kings-Rajasthan Royals-2014-05-13.RData
+734005.yaml:Royal Challengers Bangalore-Delhi Daredevils-2014-05-13.RData
+734007.yaml:Sunrisers Hyderabad-Kings XI Punjab-2014-05-14.RData
+734009.yaml:Kolkata Knight Riders-Mumbai Indians-2014-05-14.RData
+734011.yaml:Rajasthan Royals-Delhi Daredevils-2014-05-15.RData
+734013.yaml:Chennai Super Kings-Royal Challengers Bangalore-2014-05-18.RData
+734015.yaml:Sunrisers Hyderabad-Kolkata Knight Riders-2014-05-18.RData
+734017.yaml:Rajasthan Royals-Mumbai Indians-2014-05-19.RData
+734019.yaml:Delhi Daredevils-Kings XI Punjab-2014-05-19.RData
+734021.yaml:Sunrisers Hyderabad-Royal Challengers Bangalore-2014-05-20.RData
+734023.yaml:Kolkata Knight Riders-Chennai Super Kings-2014-05-20.RData
+734025.yaml:Kings XI Punjab-Mumbai Indians-2014-05-21.RData
+734027.yaml:Kolkata Knight Riders-Royal Challengers Bangalore-2014-05-22.RData
+734029.yaml:Chennai Super Kings-Sunrisers Hyderabad-2014-05-22.RData
+734031.yaml:Mumbai Indians-Delhi Daredevils-2014-05-23.RData
+734033.yaml:Kings XI Punjab-Rajasthan Royals-2014-05-23.RData
+734035.yaml:Royal Challengers Bangalore-Chennai Super Kings-2014-05-24.RData
+734037.yaml:Kolkata Knight Riders-Sunrisers Hyderabad-2014-05-24.RData
+734039.yaml:Kings XI Punjab-Delhi Daredevils-2014-05-25.RData
+734041.yaml:Mumbai Indians-Rajasthan Royals-2014-05-25.RData
+734043.yaml:Kings XI Punjab-Kolkata Knight Riders-2014-05-27.RData
+734045.yaml:Chennai Super Kings-Mumbai Indians-2014-05-28.RData
+734047.yaml:Chennai Super Kings-Kings XI Punjab-2014-05-30.RData
+734049.yaml:Kolkata Knight Riders-Kings XI Punjab-2014-06-01.RData
+829705.yaml:Kolkata Knight Riders-Mumbai Indians-2015-04-08.RData
+829707.yaml:Chennai Super Kings-Delhi Daredevils-2015-04-09.RData
+829709.yaml:Kings XI Punjab-Rajasthan Royals-2015-04-10.RData
+829711.yaml:Chennai Super Kings-Sunrisers Hyderabad-2015-04-11.RData
+829713.yaml:Kolkata Knight Riders-Royal Challengers Bangalore-2015-04-11.RData
+829715.yaml:Delhi Daredevils-Rajasthan Royals-2015-04-12.RData
+829717.yaml:Mumbai Indians-Kings XI Punjab-2015-04-12.RData
+829719.yaml:Royal Challengers Bangalore-Sunrisers Hyderabad-2015-04-13.RData
+829721.yaml:Rajasthan Royals-Mumbai Indians-2015-04-14.RData
+829723.yaml:Kolkata Knight Riders-Chennai Super Kings-2015-04-30.RData
+829725.yaml:Kings XI Punjab-Delhi Daredevils-2015-04-15.RData
+829727.yaml:Sunrisers Hyderabad-Rajasthan Royals-2015-04-16.RData
+829729.yaml:Mumbai Indians-Chennai Super Kings-2015-04-17.RData
+829731.yaml:Sunrisers Hyderabad-Delhi Daredevils-2015-04-18.RData
+829733.yaml:Kings XI Punjab-Kolkata Knight Riders-2015-04-18.RData
+829735.yaml:Rajasthan Royals-Chennai Super Kings-2015-04-19.RData
+829737.yaml:Royal Challengers Bangalore-Mumbai Indians-2015-04-19.RData
+829739.yaml:Delhi Daredevils-Kolkata Knight Riders-2015-04-20.RData
+829741.yaml:Rajasthan Royals-Kings XI Punjab-2015-04-21.RData
+829743.yaml:Sunrisers Hyderabad-Kolkata Knight Riders-2015-04-22.RData
+829745.yaml:Royal Challengers Bangalore-Chennai Super Kings-2015-04-22.RData
+829747.yaml:Delhi Daredevils-Mumbai Indians-2015-04-23.RData
+829749.yaml:Rajasthan Royals-Royal Challengers Bangalore-2015-04-24.RData
+829751.yaml:Mumbai Indians-Sunrisers Hyderabad-2015-04-25.RData
+829753.yaml:Chennai Super Kings-Kings XI Punjab-2015-04-25.RData
+829757.yaml:Delhi Daredevils-Royal Challengers Bangalore-2015-04-26.RData
+829759.yaml:Kings XI Punjab-Sunrisers Hyderabad-2015-04-27.RData
+829761.yaml:Kolkata Knight Riders-Delhi Daredevils-2015-05-07.RData
+829763.yaml:Royal Challengers Bangalore-Rajasthan Royals-2015-04-29.RData
+829765.yaml:Chennai Super Kings-Kolkata Knight Riders-2015-04-28.RData
+829767.yaml:Delhi Daredevils-Kings XI Punjab-2015-05-01.RData
+829769.yaml:Mumbai Indians-Rajasthan Royals-2015-05-01.RData
+829771.yaml:Royal Challengers Bangalore-Kolkata Knight Riders-2015-05-02.RData
+829773.yaml:Sunrisers Hyderabad-Chennai Super Kings-2015-05-02.RData
+829775.yaml:Kings XI Punjab-Mumbai Indians-2015-05-03.RData
+829777.yaml:Rajasthan Royals-Delhi Daredevils-2015-05-03.RData
+829779.yaml:Chennai Super Kings-Royal Challengers Bangalore-2015-05-04.RData
+829781.yaml:Kolkata Knight Riders-Sunrisers Hyderabad-2015-05-04.RData
+829783.yaml:Mumbai Indians-Delhi Daredevils-2015-05-05.RData
+829785.yaml:Royal Challengers Bangalore-Kings XI Punjab-2015-05-06.RData
+829787.yaml:Rajasthan Royals-Sunrisers Hyderabad-2015-05-07.RData
+829789.yaml:Chennai Super Kings-Mumbai Indians-2015-05-08.RData
+829791.yaml:Kolkata Knight Riders-Kings XI Punjab-2015-05-09.RData
+829793.yaml:Delhi Daredevils-Sunrisers Hyderabad-2015-05-09.RData
+829795.yaml:Mumbai Indians-Royal Challengers Bangalore-2015-05-10.RData
+829797.yaml:Chennai Super Kings-Rajasthan Royals-2015-05-10.RData
+829799.yaml:Sunrisers Hyderabad-Kings XI Punjab-2015-05-11.RData
+829801.yaml:Delhi Daredevils-Chennai Super Kings-2015-05-12.RData
+829803.yaml:Kings XI Punjab-Royal Challengers Bangalore-2015-05-13.RData
+829805.yaml:Mumbai Indians-Kolkata Knight Riders-2015-05-14.RData
+829807.yaml:Sunrisers Hyderabad-Royal Challengers Bangalore-2015-05-15.RData
+829809.yaml:Kings XI Punjab-Chennai Super Kings-2015-05-16.RData
+829811.yaml:Rajasthan Royals-Kolkata Knight Riders-2015-05-16.RData
+829813.yaml:Royal Challengers Bangalore-Delhi Daredevils-2015-05-17.RData
+829815.yaml:Sunrisers Hyderabad-Mumbai Indians-2015-05-17.RData
+829817.yaml:Chennai Super Kings-Mumbai Indians-2015-05-19.RData
+829819.yaml:Royal Challengers Bangalore-Rajasthan Royals-2015-05-20.RData
+829821.yaml:Chennai Super Kings-Royal Challengers Bangalore-2015-05-22.RData
+829823.yaml:Mumbai Indians-Chennai Super Kings-2015-05-24.RData
